@@ -1,1 +1,6 @@
-{}
+{
+  "livePreview": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false
+}

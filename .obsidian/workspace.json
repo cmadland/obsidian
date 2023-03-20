@@ -15,7 +15,7 @@
               "state": {
                 "file": "methods/campanelliTestingSurveyQuestions2012.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           },
@@ -37,7 +37,7 @@
               "state": {
                 "file": "methods/tigelaarDevelopmentValidationFramework2004.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           },
@@ -55,11 +55,9 @@
             "id": "f606cffdf978dc61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "frameworks/goldsteinResponseAssessmentLearning2017.md",
-                "mode": "source",
-                "source": false
+                "file": "frameworks/goldsteinResponseAssessmentLearning2017.md"
               }
             }
           },
@@ -67,11 +65,9 @@
             "id": "65f22a556136b1ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "frameworks/bairdAssessmentLearningFields2017.md",
-                "mode": "source",
-                "source": false
+                "file": "frameworks/bairdAssessmentLearningFields2017.md"
               }
             }
           },
@@ -79,11 +75,9 @@
             "id": "0dcc9ad015e4b80f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "frameworks/yanConceptualisingAssessmentaslearning2021.md",
-                "mode": "source",
-                "source": false
+                "file": "frameworks/yanConceptualisingAssessmentaslearning2021.md"
               }
             }
           },
@@ -91,11 +85,9 @@
             "id": "08955306ec202e46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "frameworks/yanAssessmentLearningMaximising2021.md",
-                "mode": "source",
-                "source": false
+                "file": "frameworks/yanAssessmentLearningMaximising2021.md"
               }
             }
           },
@@ -115,7 +107,7 @@
               "state": {
                 "file": "frameworks/boudReframingAssessmentResearch2018.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -270,8 +262,9 @@
   "active": "65f22a556136b1ee",
   "lastOpenFiles": [
     "frameworks/goldsteinResponseAssessmentLearning2017.md",
-    "frameworks/bairdAssessmentLearningFields2017.md",
     "frameworks/forde-leavesFrameworkUnderstandingAssessment2023.md",
+    "_papers/EF2FCUWS/goldsteinResponseAssessmentLearning2017.pdf",
+    "frameworks/bairdAssessmentLearningFields2017.md",
     "_papers/EF2FCUWS/Goldstein - 2017 - A response to ‘assessment and learning fields apa.pdf",
     "_papers/EF2FCUWS/A response to assessment and learning fields apart.pdf",
     "_papers/EF2FCUWS",
@@ -284,7 +277,6 @@
     "_papers/5MCNDZQM/10.4324_9781003052081-3_chapterpdf.pdf",
     "_papers/5MCNDZQM",
     "_papers/2TAEYDQ3/Yan and Boud - 2021 - Conceptualising assessment-as-learning.pdf",
-    "_papers/2TAEYDQ3/10.4324_9781003052081-2_chapterpdf.pdf",
     "methods/tigelaarDevelopmentValidationFramework2004.md",
     "frameworks/boudRethinkingAssessmentHigher2007.md",
     "frameworks/boudReframingAssessmentResearch2018.md",
