@@ -11,9 +11,121 @@
             "id": "20636172ee26ce6c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/campanelliTestingSurveyQuestions2012.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af90cfe2e64943c",
+            "type": "leaf",
+            "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "campanelliTestingSurveyQuestions2012.md"
+                "file": "methods/campanelliTestingSurveyQuestions2012.md"
+              }
+            }
+          },
+          {
+            "id": "1a6af720e22b8589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/tigelaarDevelopmentValidationFramework2004.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89561a62be2a926e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "frameworks/forde-leavesFrameworkUnderstandingAssessment2023.md"
+              }
+            }
+          },
+          {
+            "id": "f606cffdf978dc61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frameworks/goldsteinResponseAssessmentLearning2017.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f22a556136b1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frameworks/bairdAssessmentLearningFields2017.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dcc9ad015e4b80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frameworks/yanConceptualisingAssessmentaslearning2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08955306ec202e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frameworks/yanAssessmentLearningMaximising2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0350b2e0477a659",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "39c7e67874d6c977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frameworks/boudReframingAssessmentResearch2018.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b0f4a85e0fdb2a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "methods/tigelaarDevelopmentValidationFramework2004.md"
               }
             }
           },
@@ -23,12 +135,12 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "bulutLectureSurveyPiloting2021.md"
+                "file": "methods/bulutLectureSurveyPiloting2021.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bulutLectureSurveyPiloting2021.md",
+                "file": "frameworks/bairdAssessmentLearningFields2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bulutLectureSurveyPiloting2021.md",
+                "file": "frameworks/bairdAssessmentLearningFields2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bulutLectureSurveyPiloting2021.md"
+                "file": "frameworks/bairdAssessmentLearningFields2017.md"
               }
             }
           }
@@ -155,24 +267,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ca91777bfbe5f41",
+  "active": "65f22a556136b1ee",
   "lastOpenFiles": [
-    "campanelliTestingSurveyQuestions2012.md",
-    "bulutLectureSurveyPiloting2021.md",
-    "_papers/JNEBRV44/gideonHandbookSurveyMethodology2012.pdf",
-    "_papers/IREBYGXD/bulutLectureSurveyPiloting2021.pdf",
-    "_papers/IREBYGXD/Lecture 6-Survey Piloting Strategies.pdf",
-    "_papers/IREBYGXD",
+    "frameworks/goldsteinResponseAssessmentLearning2017.md",
+    "frameworks/bairdAssessmentLearningFields2017.md",
+    "frameworks/forde-leavesFrameworkUnderstandingAssessment2023.md",
+    "_papers/EF2FCUWS/Goldstein - 2017 - A response to ‘assessment and learning fields apa.pdf",
+    "_papers/EF2FCUWS/A response to assessment and learning fields apart.pdf",
+    "_papers/EF2FCUWS",
+    "frameworks/yanAssessmentLearningMaximising2021.md",
+    "frameworks/boudAssessmentaslearningDevelopmentStudents2021.md",
+    "frameworks/yanConceptualisingAssessmentaslearning2021.md",
+    "_papers/2TAEYDQ3/yanConceptualisingAssessmentaslearning2021.pdf",
+    "_papers/5MCNDZQM/boudAssessmentaslearningDevelopmentStudents2021.pdf",
+    "_papers/5MCNDZQM/Boud - 2021 - Assessment-as-learning for the development of stud.pdf",
+    "_papers/5MCNDZQM/10.4324_9781003052081-3_chapterpdf.pdf",
+    "_papers/5MCNDZQM",
+    "_papers/2TAEYDQ3/Yan and Boud - 2021 - Conceptualising assessment-as-learning.pdf",
+    "_papers/2TAEYDQ3/10.4324_9781003052081-2_chapterpdf.pdf",
+    "methods/tigelaarDevelopmentValidationFramework2004.md",
+    "frameworks/boudRethinkingAssessmentHigher2007.md",
+    "frameworks/boudReframingAssessmentResearch2018.md",
+    "frameworks/nicolReEngineeringAssessmentPractices2009.md",
     "_templates/article.md",
-    "test.md",
-    "_templates",
-    "_papers/7PTQPWT3/DeLuca_McEwen_2012_Leveraging Technology to Promote Assessment for Learning in Higher Education.pdf",
-    "_papers/MDBB9PTB/DeLuca_2021_Provocation 1.pdf",
-    "_papers/NE6FE3PL/DeLuca et al. - 2020 - A cross-cultural comparison of German and Canadian.pdf",
-    "_papers/ZCGKBYRC/DeLuca et al_2021_Exploring assessment across cultures.pdf",
-    "test.csv.md",
+    "methods/bulutLectureSurveyPiloting2021.md",
+    "methods/campanelliTestingSurveyQuestions2012.md",
     "ibarra-saizFutureAssessmentHigher2020.md",
-    "test.md.md",
-    "_papers/2CA5W7MA/ibarra-saizFutureAssessmentHigher2020.pdf"
+    "marksDigitalTransformationHigher2022.md",
+    "test.md",
+    "test.csv.md",
+    "test.md.md"
   ]
 }

@@ -323,3 +323,45 @@ annotation-target: campanelliTestingSurveyQuestions2012.pdf
 >%%TAGS%%
 >
 ^hr54kt658sw
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-15T15:16:47.293Z","updated":"2023-03-15T15:16:47.293Z","document":{"title":"International Handbook of Survey Methodology ","link":[{"href":"urn:x-pdf:49cc64b857b2c729b34138102fca50f6"},{"href":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf"}],"documentFingerprint":"49cc64b857b2c729b34138102fca50f6"},"uri":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf","target":[{"source":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf","selector":[{"type":"TextPositionSelector","start":25502,"end":25525},{"type":"TextQuoteSelector","exact":"10.3.1.2  Preparation  ","prefix":"e conference, or Internet chat. ","suffix":"The  researcher  or  research  t"}]}]}
+>```
+>%%
+>*%%PREFIX%%e conference, or Internet chat.%%HIGHLIGHT%% ==10.3.1.2  Preparation== %%POSTFIX%%The  researcher  or  research  t*
+>%%LINK%%[[#^ovu55fx5mvh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ovu55fx5mvh
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-15T15:17:02.812Z","updated":"2023-03-15T15:17:02.812Z","document":{"title":"International Handbook of Survey Methodology ","link":[{"href":"urn:x-pdf:49cc64b857b2c729b34138102fca50f6"},{"href":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf"}],"documentFingerprint":"49cc64b857b2c729b34138102fca50f6"},"uri":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf","target":[{"source":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf","selector":[{"type":"TextPositionSelector","start":25525,"end":25617},{"type":"TextQuoteSelector","exact":"The  researcher  or  research  team  needs  to  provide  a  brief  to  the  expert(s)  that ","prefix":"et chat. 10.3.1.2  Preparation  ","suffix":" 1  This section  is from  our  "}]}]}
+>```
+>%%
+>*%%PREFIX%%et chat. 10.3.1.2  Preparation%%HIGHLIGHT%% ==The  researcher  or  research  team  needs  to  provide  a  brief  to  the  expert(s)  that== %%POSTFIX%%1  This section  is from  our*
+>%%LINK%%[[#^a2tknb0awic|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a2tknb0awic
+
+
+>%%
+>```annotation-json
+>{"created":"2023-03-15T15:17:15.876Z","updated":"2023-03-15T15:17:15.876Z","document":{"title":"International Handbook of Survey Methodology ","link":[{"href":"urn:x-pdf:49cc64b857b2c729b34138102fca50f6"},{"href":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf"}],"documentFingerprint":"49cc64b857b2c729b34138102fca50f6"},"uri":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf","target":[{"source":"vault:/_papers/66Y3GUCN/campanelliTestingSurveyQuestions2012.pdf","selector":[{"type":"TextPositionSelector","start":25805,"end":26199},{"type":"TextQuoteSelector","exact":"sets  out  the  key  aims  and  objectives  of the  survey  and  draws  attention  to  questionnaire  design  problems and  issues on  which  advice  is sought. The brief  also needs  to points  out  any  immovable  constraints  on  the scope  and  design of  the  questionnaire  (e.g.,  mode  of  administration,  length,  questions  inserted  for  comparability  with  other  surveys, etc.). ","prefix":", 2002. 184 Pamela  Campanelli  ","suffix":"The  brief  plus  the  draft  qu"}]}]}
+>```
+>%%
+>*%%PREFIX%%, 2002. 184 Pamela  Campanelli%%HIGHLIGHT%% ==sets  out  the  key  aims  and  objectives  of the  survey  and  draws  attention  to  questionnaire  design  problems and  issues on  which  advice  is sought. The brief  also needs  to points  out  any  immovable  constraints  on  the scope  and  design of  the  questionnaire  (e.g.,  mode  of  administration,  length,  questions  inserted  for  comparability  with  other  surveys, etc.).== %%POSTFIX%%The  brief  plus  the  draft  qu*
+>%%LINK%%[[#^17k5vf72vfwj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^17k5vf72vfwj
