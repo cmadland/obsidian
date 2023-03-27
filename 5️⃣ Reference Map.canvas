@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"type":"file","file":"1️⃣ sources/frameworks/winstoneNeedDisentangleAssessment2022.md","id":"a32eec66b0e25ae8","x":-648,"y":-859,"width":400,"height":400},
+		{"type":"text","text":"# Technology-Integrated Assessment Framework","id":"b545c1b107265ce5","x":-180,"y":-140,"width":780,"height":62,"color":"4"},
+		{"type":"text","text":"## Technology-Integration Frameworks","id":"69118ff0768de095","x":-820,"y":-140,"width":498,"height":60,"color":"1"},
+		{"type":"text","text":"[[bowerTechnologyMediatedLearning2019]]","id":"ef75697dd7d7baee","x":-880,"y":22,"width":391,"height":60},
+		{"type":"text","text":"## Feedback","id":"8e0eb4989565ce0a","x":-430,"y":-1020,"width":250,"height":60},
+		{"type":"text","text":"## Technology-Enhanced Assessment (TEA)","id":"2206346f77d72801","x":880,"y":-1580,"width":560,"height":60,"color":"6"},
+		{"type":"file","file":"sweeneyWhereTransformationUnlocking2017.md","id":"b12bc7a0c622e0e9","x":880,"y":-1420,"width":400,"height":400},
+		{"type":"text","text":"### Evaluative Judgement","id":"a70668b6a0f3e147","x":1560,"y":200,"width":273,"height":55},
+		{"type":"file","file":"1️⃣ sources/evaluative-judgement/taiDevelopingEvaluativeJudgement2018.md","id":"9b127a0ebf8c42d3","x":1710,"y":415,"width":400,"height":400},
+		{"type":"file","file":"1️⃣ sources/frameworks/winstoneNeedDisentangleAssessment2022.md","id":"6bbb2a3eb14b6d51","x":1710,"y":867,"width":400,"height":400},
+		{"type":"text","text":"### Sustainable Assessment","id":"3c36d4ad2e208d45","x":2330,"y":200,"width":348,"height":50,"color":"3"},
+		{"type":"file","file":"1️⃣ sources/frameworks/boudSustainableAssessmentRevisited2016.md","id":"54fa1624a97ad7f7","x":2770,"y":415,"width":400,"height":400},
+		{"type":"file","file":"1️⃣ sources/frameworks/boudSustainableAssessmentRethinking2000.md","id":"ad118c9139930f72","x":2330,"y":415,"width":400,"height":400},
+		{"type":"file","file":"1️⃣ sources/frameworks/boudRethinkingAssessmentHigher2007.md","id":"8ccd9c4c48b2c52a","x":2330,"y":897,"width":400,"height":400},
+		{"type":"file","file":"1️⃣ sources/frameworks/boudAssessmentaslearningDevelopmentStudents2021.md","id":"5e9862c356d636af","x":1280,"y":415,"width":400,"height":400},
+		{"type":"file","file":"1️⃣ sources/frameworks/yanConceptualisingAssessmentaslearning2021.md","id":"481cdc6862608f5a","x":1280,"y":867,"width":400,"height":400},
+		{"type":"file","file":"1️⃣ sources/frameworks/forde-leavesFrameworkUnderstandingAssessment2023.md","id":"bee186c132fa0abf","x":760,"y":415,"width":400,"height":400},
+		{"type":"text","text":"## Assessment Frameworks","id":"c32fe54c18ea2323","x":760,"y":82,"width":340,"height":50,"color":"2"}
+	],
+	"edges":[
+		{"id":"658161d412378c56","fromNode":"b545c1b107265ce5","fromSide":"right","toNode":"c32fe54c18ea2323","toSide":"left"},
+		{"id":"504075abaa316733","fromNode":"b545c1b107265ce5","fromSide":"left","toNode":"69118ff0768de095","toSide":"right"},
+		{"id":"e06618080df88d89","fromNode":"b545c1b107265ce5","fromSide":"left","toNode":"8e0eb4989565ce0a","toSide":"right"},
+		{"id":"280ec74a2ff1de88","fromNode":"69118ff0768de095","fromSide":"bottom","toNode":"ef75697dd7d7baee","toSide":"top"},
+		{"id":"99d5f734df9ee959","fromNode":"c32fe54c18ea2323","fromSide":"right","toNode":"a70668b6a0f3e147","toSide":"left"},
+		{"id":"ed4daa33012a008c","fromNode":"a70668b6a0f3e147","fromSide":"bottom","toNode":"9b127a0ebf8c42d3","toSide":"top"},
+		{"id":"df6299be7acd7179","fromNode":"a70668b6a0f3e147","fromSide":"bottom","toNode":"5e9862c356d636af","toSide":"top"},
+		{"id":"0b66bf8791a87166","fromNode":"2206346f77d72801","fromSide":"bottom","toNode":"b12bc7a0c622e0e9","toSide":"top"},
+		{"id":"1e6d62156ad26482","fromNode":"a70668b6a0f3e147","fromSide":"bottom","toNode":"481cdc6862608f5a","toSide":"top"},
+		{"id":"a221bb546b050ba2","fromNode":"a70668b6a0f3e147","fromSide":"bottom","toNode":"6bbb2a3eb14b6d51","toSide":"top"},
+		{"id":"d8cbd30cd0c5cb75","fromNode":"8e0eb4989565ce0a","fromSide":"bottom","toNode":"a32eec66b0e25ae8","toSide":"top"},
+		{"id":"4145d5ad84807545","fromNode":"b545c1b107265ce5","fromSide":"top","toNode":"2206346f77d72801","toSide":"left"},
+		{"id":"0189006aa2165ab4","fromNode":"c32fe54c18ea2323","fromSide":"bottom","toNode":"bee186c132fa0abf","toSide":"top"},
+		{"id":"3ab4e0ac0fb869e4","fromNode":"c32fe54c18ea2323","fromSide":"right","toNode":"3c36d4ad2e208d45","toSide":"top"},
+		{"id":"6a0ac4017ec31cea","fromNode":"3c36d4ad2e208d45","fromSide":"bottom","toNode":"54fa1624a97ad7f7","toSide":"top"},
+		{"id":"2d94afabb5df6c6c","fromNode":"3c36d4ad2e208d45","fromSide":"bottom","toNode":"ad118c9139930f72","toSide":"top"},
+		{"id":"3ec4590fbbddeb48","fromNode":"3c36d4ad2e208d45","fromSide":"bottom","toNode":"8ccd9c4c48b2c52a","toSide":"top"}
+	]
+}

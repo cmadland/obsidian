@@ -1,6 +1,8 @@
 [
   "obsidian-git",
   "open-vscode",
-  "obsidian-zotero-desktop-connector",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-kanban",
+  "dataview",
+  "obsidian-zotero-desktop-connector"
 ]
