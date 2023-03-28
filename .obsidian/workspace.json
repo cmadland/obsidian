@@ -15,6 +15,7 @@
               "state": {
                 "file": "1️⃣ sources/methods/tigelaarDevelopmentValidationFramework2004.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -27,6 +28,7 @@
               "state": {
                 "file": "1️⃣ sources/frameworks/molloyDevelopingLearningcentredFramework2020.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -39,6 +41,7 @@
               "state": {
                 "file": "masseyAssessmentLiteracyCollege2020.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -47,14 +50,45 @@
             "id": "69c930af5730bb90",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "1️⃣ sources/methods/bulutLectureSurveyPiloting2021.md"
+                "file": "_templates/source-note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e12d15e64d2b27c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "irvineLandscapeMergingModalities2020.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "745e71af281e63a5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Dissertation Map.canvas",
+                "viewState": {
+                  "x": 970.7443877550953,
+                  "y": 622.7589644471246,
+                  "zoom": -0.2709865292241871
+                }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1️⃣ sources/methods/bulutLectureSurveyPiloting2021.md",
+                "file": "🧭 Dissertation Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1️⃣ sources/methods/bulutLectureSurveyPiloting2021.md",
+                "file": "🧭 Dissertation Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1️⃣ sources/methods/bulutLectureSurveyPiloting2021.md"
+                "file": "🧭 Dissertation Map.canvas"
               }
             }
           }
@@ -182,18 +216,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69c930af5730bb90",
+  "active": "745e71af281e63a5",
   "lastOpenFiles": [
-    "Dissertation Map.canvas",
+    "🧭 Reference Map.canvas",
+    "🧭 Dissertation Map.canvas",
+    "dawsonCognitiveOffloadingAssessment2020.md",
+    "_templates/source-note.md",
+    "_papers/T62IJI4C/dawsonCognitiveOffloadingAssessment2020.pdf",
+    "dawsonConcludingCommentsReimagining2020.md",
+    "_papers/UZ7ISQ85/dawsonConcludingCommentsReimagining2020.pdf",
+    "_papers/UZ7ISQ85/978-3-030-41956-1_20.pdf",
+    "_papers/UZ7ISQ85",
+    "1️⃣ sources/methods/bulutLectureSurveyPiloting2021.md",
+    "dawsonDefendingAssessmentSecurity2020.md",
+    "dawsonHowDoesTechnology2017.md",
+    "irvineLandscapeMergingModalities2020.md",
     "masseyAssessmentLiteracyCollege2020.md",
     "1️⃣ sources/frameworks/bairdAssessmentLearningFields2017.md",
-    "_templates/source-note.md",
     "1️⃣ sources/digital-transformation/marksDigitalTransformationHigher2022.md",
     "1️⃣ sources/evaluative-judgement",
     "1️⃣ sources/digital-transformation",
     "1️⃣ sources/rethinking-assessment/ibarra-saizFutureAssessmentHigher2020.md",
     "1️⃣ sources/rethinking-assessment",
-    "5️⃣ Reference Map.canvas",
     "1️⃣ sources/frameworks/boudAssessmentaslearningDevelopmentStudents2021.md",
     "1️⃣ sources/frameworks/boudSustainableAssessmentRevisited2016.md",
     "1️⃣ sources/frameworks/boudRethinkingAssessmentHigher2007.md",
@@ -203,23 +247,13 @@
     "1️⃣ sources/methods/tigelaarDevelopmentValidationFramework2004.md",
     "1️⃣ sources/frameworks/winstoneNeedDisentangleAssessment2022.md",
     "sweeneyWhereTransformationUnlocking2017.md",
-    "irvineLandscapeMergingModalities2020.md",
     "1️⃣ sources/frameworks/bowerTechnologyMediatedLearning2019.md",
     "1️⃣ sources/evaluative-judgement/taiDevelopingEvaluativeJudgement2018.md",
     "1️⃣ sources/bowerTechnologyMediatedLearning2019.md",
     "bowerDesignTechnologyenhancedLearning2017.md",
     "bairdAssessmentLearningFields2017.md",
-    "bowerEffectReceivingPreferred2004.md",
-    "Untitled.md",
-    "_templates/article.md",
-    "2️⃣ compendiums/evaluative-judgment.md",
-    "1️⃣ sources/frameworks/forde-leavesFrameworkUnderstandingAssessment2023.md",
     "_papers/SG6VDULZ/desotoLowGrowthResilience2020.pdf",
     "_papers/SG6VDULZ/DeSoto et al. - 2020 - Low growth resilience to drought is related to fut.pdf",
-    "_papers/SG6VDULZ",
-    "_papers/tmp-QwPJs3/DeSoto et al. - 2020 - Low growth resilience to drought is related to fut.pdf",
-    "_papers/tmp-QwPJs3",
-    "4️⃣ ontologies",
-    "3️⃣ thoughts"
+    "_papers/SG6VDULZ"
   ]
 }
