@@ -6,6 +6,7 @@
       {
         "id": "495157c30ba20d50",
         "type": "tabs",
+        "dimension": 32.70408163265306,
         "children": [
           {
             "id": "757068a29cedd68f",
@@ -76,19 +77,39 @@
             "id": "745e71af281e63a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🧭 Dissertation Map.canvas",
-                "viewState": {
-                  "x": 851.7945408163196,
-                  "y": 448.8228675083489,
-                  "zoom": -0.2709865292241871
-                }
+                "file": "Survey.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "3efb6b965e7400af",
+        "type": "tabs",
+        "dimension": 67.29591836734694,
+        "children": [
+          {
+            "id": "b79825bc09e98166",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Dissertation Map.canvas",
+                "viewState": {
+                  "x": 722.0500909780136,
+                  "y": 213.64966641395003,
+                  "zoom": -1.3373767528587037
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +237,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "745e71af281e63a5",
+  "active": "b79825bc09e98166",
   "lastOpenFiles": [
-    "🧭 Reference Map.canvas",
+    "Survey.md",
     "🧭 Dissertation Map.canvas",
+    "Expert Panel.md",
+    "Interviews.md",
+    "🧭 Reference Map.canvas",
     "dawsonCognitiveOffloadingAssessment2020.md",
     "_templates/source-note.md",
     "_papers/T62IJI4C/dawsonCognitiveOffloadingAssessment2020.pdf",
@@ -249,9 +273,6 @@
     "sweeneyWhereTransformationUnlocking2017.md",
     "1️⃣ sources/frameworks/bowerTechnologyMediatedLearning2019.md",
     "1️⃣ sources/evaluative-judgement/taiDevelopingEvaluativeJudgement2018.md",
-    "1️⃣ sources/bowerTechnologyMediatedLearning2019.md",
-    "bowerDesignTechnologyenhancedLearning2017.md",
-    "bairdAssessmentLearningFields2017.md",
     "_papers/SG6VDULZ/desotoLowGrowthResilience2020.pdf",
     "_papers/SG6VDULZ/DeSoto et al. - 2020 - Low growth resilience to drought is related to fut.pdf",
     "_papers/SG6VDULZ"
