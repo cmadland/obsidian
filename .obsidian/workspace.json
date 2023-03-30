@@ -6,15 +6,29 @@
       {
         "id": "495157c30ba20d50",
         "type": "tabs",
-        "dimension": 32.70408163265306,
         "children": [
           {
             "id": "757068a29cedd68f",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": 96.60999999999974,
+                  "y": 625.4600000000002,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "9f446af75eeb1c4b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ sources/methods/tigelaarDevelopmentValidationFramework2004.md",
+                "file": "dawsonWhatMakesEffective2019.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -22,90 +36,31 @@
             }
           },
           {
-            "id": "a530bc381789537a",
+            "id": "33f3346d32477196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ sources/frameworks/molloyDevelopingLearningcentredFramework2020.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0fe857d16b5438ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "masseyAssessmentLiteracyCollege2020.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "69c930af5730bb90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/source-note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e12d15e64d2b27c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "irvineLandscapeMergingModalities2020.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "745e71af281e63a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Survey.md",
+                "file": "nicolRethinkingFeedbackPractices2014.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
-        "id": "3efb6b965e7400af",
+        "id": "cbdcc9c9d1ee6c89",
         "type": "tabs",
-        "dimension": 67.29591836734694,
         "children": [
           {
-            "id": "b79825bc09e98166",
+            "id": "9d6e841b00e709f4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "🧭 Dissertation Map.canvas",
-                "viewState": {
-                  "x": 722.0500909780136,
-                  "y": 213.64966641395003,
-                  "zoom": -1.3373767528587037
-                }
+                "file": "_papers/UT5ES5MF/molloyDevelopingLearningcentredFramework2020.pdf"
               }
             }
           }
@@ -175,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧭 Dissertation Map.canvas",
+                "file": "🧭 Reference Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧭 Dissertation Map.canvas",
+                "file": "🧭 Reference Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧭 Dissertation Map.canvas"
+                "file": "🧭 Reference Map.canvas"
               }
             }
           }
@@ -237,44 +192,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b79825bc09e98166",
+  "active": "757068a29cedd68f",
   "lastOpenFiles": [
-    "Survey.md",
+    "_papers/FQWD9EAB/amrane-cooperOnlineDistanceEducation2023.pdf",
+    "_papers/FQWD9EAB/Online-and-Distance-Education.pdf",
+    "_papers/FQWD9EAB",
+    "_papers/ZKV2Z797/menu-collapsed.png",
+    "_papers/ZKV2Z797/noozoodesign_favicon.ico",
+    "_papers/ZKV2Z797/googleanalytics.js",
+    "_papers/ZKV2Z797/feed.png",
+    "_papers/ZKV2Z797/grippie.png",
+    "_papers/ZKV2Z797/rate.js",
+    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.css",
+    "_papers/ZKV2Z797/status-active.gif",
+    "_papers/ZCGKBYRC/DeLuca et al_2021_Exploring assessment across cultures.pdf",
+    "_papers/ZCGKBYRC",
+    "_papers/MDBB9PTB/DeLuca_2021_Provocation 1.pdf",
+    "_papers/MDBB9PTB",
+    "molloyDevelopingLearningcentredFramework2020.md",
+    "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
+    "nicolRethinkingFeedbackPractices2014.md",
+    "dawsonWhatMakesEffective2019.md",
+    "🧭 Reference Map.canvas",
+    "1️⃣ sources/frameworks/assessment/goldsteinResponseAssessmentLearning2017.md",
+    "1️⃣ sources/frameworks/human-centred/molloyDevelopingLearningcentredFramework2020.md",
+    "1️⃣ sources/frameworks/technology/bowerDesignTechnologyenhancedLearning2017.md",
+    "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
+    "_templates/source-note.md",
+    "laiHowUseTechnology2019.md",
+    "masseyAssessmentLiteracyCollege2020.md",
+    "1️⃣ sources/frameworks/bowerTechnologyMediatedLearning2019.md",
     "🧭 Dissertation Map.canvas",
+    "Survey.md",
     "Expert Panel.md",
     "Interviews.md",
-    "🧭 Reference Map.canvas",
     "dawsonCognitiveOffloadingAssessment2020.md",
-    "_templates/source-note.md",
-    "_papers/T62IJI4C/dawsonCognitiveOffloadingAssessment2020.pdf",
     "dawsonConcludingCommentsReimagining2020.md",
-    "_papers/UZ7ISQ85/dawsonConcludingCommentsReimagining2020.pdf",
-    "_papers/UZ7ISQ85/978-3-030-41956-1_20.pdf",
-    "_papers/UZ7ISQ85",
     "1️⃣ sources/methods/bulutLectureSurveyPiloting2021.md",
     "dawsonDefendingAssessmentSecurity2020.md",
     "dawsonHowDoesTechnology2017.md",
     "irvineLandscapeMergingModalities2020.md",
-    "masseyAssessmentLiteracyCollege2020.md",
-    "1️⃣ sources/frameworks/bairdAssessmentLearningFields2017.md",
-    "1️⃣ sources/digital-transformation/marksDigitalTransformationHigher2022.md",
-    "1️⃣ sources/evaluative-judgement",
-    "1️⃣ sources/digital-transformation",
-    "1️⃣ sources/rethinking-assessment/ibarra-saizFutureAssessmentHigher2020.md",
-    "1️⃣ sources/rethinking-assessment",
-    "1️⃣ sources/frameworks/boudAssessmentaslearningDevelopmentStudents2021.md",
-    "1️⃣ sources/frameworks/boudSustainableAssessmentRevisited2016.md",
-    "1️⃣ sources/frameworks/boudRethinkingAssessmentHigher2007.md",
-    "boudRethinkingAssessmentHigher2007.md",
-    "1️⃣ sources/frameworks/boudSustainableAssessmentRethinking2000.md",
-    "1️⃣ sources/frameworks/molloyDevelopingLearningcentredFramework2020.md",
-    "1️⃣ sources/methods/tigelaarDevelopmentValidationFramework2004.md",
-    "1️⃣ sources/frameworks/winstoneNeedDisentangleAssessment2022.md",
-    "sweeneyWhereTransformationUnlocking2017.md",
-    "1️⃣ sources/frameworks/bowerTechnologyMediatedLearning2019.md",
-    "1️⃣ sources/evaluative-judgement/taiDevelopingEvaluativeJudgement2018.md",
-    "_papers/SG6VDULZ/desotoLowGrowthResilience2020.pdf",
-    "_papers/SG6VDULZ/DeSoto et al. - 2020 - Low growth resilience to drought is related to fut.pdf",
-    "_papers/SG6VDULZ"
+    "1️⃣ sources/frameworks/assessment/bairdAssessmentLearningFields2017.md",
+    "1️⃣ sources/frameworks/technology/digital-transformation/marksDigitalTransformationHigher2022.md",
+    "1️⃣ sources/frameworks/assessment/ibarra-saizFutureAssessmentHigher2020.md",
+    "1️⃣ sources/frameworks/assessment/boudAssessmentaslearningDevelopmentStudents2021.md"
   ]
 }

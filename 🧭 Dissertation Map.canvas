@@ -27,7 +27,7 @@
 		{"type":"text","text":"Full Dissertation","id":"fd8f6d7b876fbb74","x":2060,"y":471,"width":170,"height":50,"color":"4"},
 		{"type":"text","text":"Integrated Framework","id":"54b57efbc064f5dc","x":250,"y":344,"width":140,"height":60,"color":"6"},
 		{"type":"text","text":"Possible Methods","id":"5349ae131c0cb11f","x":460,"y":514,"width":250,"height":60},
-		{"type":"text","text":"Paper 1","id":"42724b15a5202eff","x":320,"y":609,"width":120,"height":60,"color":"4"}
+		{"type":"text","text":"Paper 1","id":"42724b15a5202eff","x":1953,"y":207,"width":120,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"3f49dedb4d80d6cc","fromNode":"28edd122bd1fc94c","fromSide":"left","toNode":"adb608b17cc72ca2","toSide":"left"},
@@ -56,7 +56,6 @@
 		{"id":"9c3fc6777469ec34","fromNode":"28edd122bd1fc94c","fromSide":"right","toNode":"42724b15a5202eff","toSide":"left","color":"4"},
 		{"id":"6d70fe3f103280b1","fromNode":"de8206e86323e7eb","fromSide":"bottom","toNode":"fd8f6d7b876fbb74","toSide":"top","color":"4"},
 		{"id":"3100dfb8f046be3b","fromNode":"526d3e945a480dd0","fromSide":"top","toNode":"fd8f6d7b876fbb74","toSide":"bottom","color":"4"},
-		{"id":"05fc19d5a679d7c4","fromNode":"42724b15a5202eff","fromSide":"right","toNode":"fd8f6d7b876fbb74","toSide":"left","color":"4"},
 		{"id":"aaabe8e1f663849f","fromNode":"9c1da713b0dc0105","fromSide":"bottom","toNode":"5349ae131c0cb11f","toSide":"top"},
 		{"id":"2c5e5f4ccf00266f","fromNode":"c4f761768606d60c","fromSide":"left","toNode":"55abaf9979e203d5","toSide":"left"},
 		{"id":"afc4abfb97ff526a","fromNode":"55abaf9979e203d5","fromSide":"bottom","toNode":"ac9d39fa94257339","toSide":"left"},
@@ -64,6 +63,7 @@
 		{"id":"1fc03179a95e51c5","fromNode":"981d35068a99522e","fromSide":"bottom","toNode":"54b57efbc064f5dc","toSide":"left"},
 		{"id":"cec7d3cf4542bd4c","fromNode":"55abaf9979e203d5","fromSide":"bottom","toNode":"e881eb86da02748a","toSide":"left"},
 		{"id":"b809666997384262","fromNode":"e881eb86da02748a","fromSide":"bottom","toNode":"ac9d39fa94257339","toSide":"top","toEnd":"none"},
-		{"id":"0f683484968df393","fromNode":"ac9d39fa94257339","fromSide":"bottom","toNode":"981d35068a99522e","toSide":"top","toEnd":"none"}
+		{"id":"0f683484968df393","fromNode":"ac9d39fa94257339","fromSide":"bottom","toNode":"981d35068a99522e","toSide":"top","toEnd":"none"},
+		{"id":"b962d1c597807385","fromNode":"42724b15a5202eff","fromSide":"right","toNode":"fd8f6d7b876fbb74","toSide":"top","color":"4"}
 	]
 }
