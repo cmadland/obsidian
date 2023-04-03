@@ -11,14 +11,12 @@
             "id": "757068a29cedd68f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🧭 Reference Map.canvas",
-                "viewState": {
-                  "x": 96.60999999999974,
-                  "y": 625.4600000000002,
-                  "zoom": 0
-                }
+                "file": "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -45,22 +43,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cbdcc9c9d1ee6c89",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d6e841b00e709f4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "_papers/UT5ES5MF/molloyDevelopingLearningcentredFramework2020.pdf"
               }
             }
           }
@@ -130,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧭 Reference Map.canvas",
+                "file": "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧭 Reference Map.canvas",
+                "file": "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧭 Reference Map.canvas"
+                "file": "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md"
               }
             }
           }
@@ -194,6 +176,9 @@
   },
   "active": "757068a29cedd68f",
   "lastOpenFiles": [
+    "🧭 Reference Map.canvas",
+    "assets/tiaf-venn.drawio.png",
+    "assets",
     "_papers/FQWD9EAB/amrane-cooperOnlineDistanceEducation2023.pdf",
     "_papers/FQWD9EAB/Online-and-Distance-Education.pdf",
     "_papers/FQWD9EAB",
@@ -207,13 +192,10 @@
     "_papers/ZKV2Z797/status-active.gif",
     "_papers/ZCGKBYRC/DeLuca et al_2021_Exploring assessment across cultures.pdf",
     "_papers/ZCGKBYRC",
-    "_papers/MDBB9PTB/DeLuca_2021_Provocation 1.pdf",
-    "_papers/MDBB9PTB",
     "molloyDevelopingLearningcentredFramework2020.md",
     "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
     "nicolRethinkingFeedbackPractices2014.md",
     "dawsonWhatMakesEffective2019.md",
-    "🧭 Reference Map.canvas",
     "1️⃣ sources/frameworks/assessment/goldsteinResponseAssessmentLearning2017.md",
     "1️⃣ sources/frameworks/human-centred/molloyDevelopingLearningcentredFramework2020.md",
     "1️⃣ sources/frameworks/technology/bowerDesignTechnologyenhancedLearning2017.md",
