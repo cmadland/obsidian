@@ -1,19 +1,22 @@
 ---
 DOI: 
-Date: 
+Date: 2020
 Rating: 0/5
-Title: ""
-ShortSummary: "{SUMMARY}"
+Title: "The Landscape of merging modalities"
+ShortSummary: ""
+annotation-target: irvineLandscapeMergingModalities2020.pdf
 ---
 
 
-#### 
-*Authors*
+#### [The Landscape of merging modalities](irvineLandscapeMergingModalities2020.pdf)
+**
+
+
 
 > [!tldr] Summary
 > A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 
 
-> [!cite] Cite
+> [!cite] Bibliography
 >Irvine, V. (2020). The Landscape of merging modalities. _EDUCAUSE Review_, _2020_(4), 40–58.
 
 > [!quote] Quotable
@@ -30,7 +33,10 @@ ShortSummary: "{SUMMARY}"
 
 #### Related
 
+#### Annotations
 
 
 
-%% Import Date: 2023-03-28T06:07:10.365-07:00 %%
+
+
+%% Import Date: 2023-04-03T06:57:46.388-07:00 %%

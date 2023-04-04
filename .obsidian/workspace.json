@@ -11,12 +11,19 @@
             "id": "757068a29cedd68f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"
+              }
+            }
+          },
+          {
+            "id": "6f0235c412715d83",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_papers/YP7AXV79/irvineLandscapeMergingModalities2020.pdf"
               }
             }
           },
@@ -26,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dawsonWhatMakesEffective2019.md",
+                "file": "1️⃣ sources/frameworks/assessment/feedback/dawsonWhatMakesEffective2019.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -39,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nicolRethinkingFeedbackPractices2014.md",
+                "file": "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -96,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "049ec37ba5d3ba10",
@@ -113,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
+                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
+                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧭 Dissertation Map.canvas"
+                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"
               }
             }
           }
@@ -166,59 +172,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "open-vscode:VSCode": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "open-vscode:VSCode": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "757068a29cedd68f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "1️⃣ sources/frameworks/technology/sweeneyWhereTransformationUnlocking2017.md",
+    "1️⃣ sources/frameworks/technology/laiHowUseTechnology2019.md",
+    "1️⃣ sources/frameworks/assessment/assessment-literacy",
+    "1️⃣ sources/frameworks/assessment/feedback/dawsonWhatMakesEffective2019.md",
+    "1️⃣ sources/frameworks/assessment/feedback",
+    "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudAssessmentaslearningDevelopmentStudents2021.md",
     "🧭 Reference Map.canvas",
+    "1️⃣ sources/frameworks/assessment/evaluative-judgement/yanConceptualisingAssessmentaslearning2021.md",
+    "1️⃣ sources/frameworks/assessment/yanConceptualisingAssessmentaslearning2021.md",
+    "1️⃣ sources/frameworks/assessment/feedback/winstoneNeedDisentangleAssessment2022.md",
+    "1️⃣ sources/frameworks/assessment/winstoneNeedDisentangleAssessment2022.md",
+    "1️⃣ sources/frameworks/technology/modality/irvineLandscapeMergingModalities2020.md",
+    "_papers/tmp-IovC2W/Gyamfi et al. - 2021 - The effects of rubrics on evaluative judgement a .pdf",
+    "_papers/tmp-IovC2W",
+    "_papers/I6KMYWAS/untitled.bib",
+    "_papers/I6KMYWAS",
+    "1️⃣ sources/frameworks/technology/selwynUseComputerTechnology2007.md",
+    "_papers/YP7AXV79/irvineLandscapeMergingModalities2020.pdf",
+    "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
+    "1️⃣ sources/frameworks/technology/modality",
+    "🧭 Dissertation Map.canvas",
+    "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
     "assets/tiaf-venn.drawio.png",
     "assets",
-    "_papers/FQWD9EAB/amrane-cooperOnlineDistanceEducation2023.pdf",
-    "_papers/FQWD9EAB/Online-and-Distance-Education.pdf",
-    "_papers/FQWD9EAB",
     "_papers/ZKV2Z797/menu-collapsed.png",
-    "_papers/ZKV2Z797/noozoodesign_favicon.ico",
-    "_papers/ZKV2Z797/googleanalytics.js",
     "_papers/ZKV2Z797/feed.png",
     "_papers/ZKV2Z797/grippie.png",
-    "_papers/ZKV2Z797/rate.js",
-    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.css",
     "_papers/ZKV2Z797/status-active.gif",
-    "_papers/ZCGKBYRC/DeLuca et al_2021_Exploring assessment across cultures.pdf",
-    "_papers/ZCGKBYRC",
-    "_papers/MDBB9PTB/DeLuca_2021_Provocation 1.pdf",
-    "molloyDevelopingLearningcentredFramework2020.md",
-    "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
-    "nicolRethinkingFeedbackPractices2014.md",
-    "dawsonWhatMakesEffective2019.md",
+    "1️⃣ sources/frameworks/human-centred/molloyDevelopingLearningcentredFramework2020.md",
+    "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014.md",
     "1️⃣ sources/frameworks/assessment/goldsteinResponseAssessmentLearning2017.md",
     "1️⃣ sources/frameworks/human-centred/molloyDevelopingLearningcentredFramework2020.md",
     "1️⃣ sources/frameworks/technology/bowerDesignTechnologyenhancedLearning2017.md",
     "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
     "_templates/source-note.md",
-    "laiHowUseTechnology2019.md",
-    "masseyAssessmentLiteracyCollege2020.md",
+    "1️⃣ sources/frameworks/assessment/assessment-literacy/masseyAssessmentLiteracyCollege2020.md",
     "1️⃣ sources/frameworks/bowerTechnologyMediatedLearning2019.md",
-    "🧭 Dissertation Map.canvas",
-    "Survey.md",
-    "Expert Panel.md",
-    "Interviews.md",
-    "dawsonCognitiveOffloadingAssessment2020.md",
-    "dawsonConcludingCommentsReimagining2020.md",
-    "1️⃣ sources/methods/bulutLectureSurveyPiloting2021.md",
-    "dawsonDefendingAssessmentSecurity2020.md",
-    "dawsonHowDoesTechnology2017.md",
-    "irvineLandscapeMergingModalities2020.md",
-    "1️⃣ sources/frameworks/assessment/bairdAssessmentLearningFields2017.md",
-    "1️⃣ sources/frameworks/technology/digital-transformation/marksDigitalTransformationHigher2022.md",
-    "1️⃣ sources/frameworks/assessment/ibarra-saizFutureAssessmentHigher2020.md",
-    "1️⃣ sources/frameworks/assessment/boudAssessmentaslearningDevelopmentStudents2021.md"
+    "1️⃣ sources/methods/Survey.md",
+    "1️⃣ sources/methods/Expert Panel.md",
+    "1️⃣ sources/frameworks/assessment/feedback/Interviews.md",
+    "1️⃣ sources/frameworks/assessment/dawsonCognitiveOffloadingAssessment2020.md",
+    "1️⃣ sources/frameworks/technology/dawsonConcludingCommentsReimagining2020.md"
   ]
 }
