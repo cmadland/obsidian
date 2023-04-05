@@ -5,7 +5,7 @@ Rating: 4/5
 Title: "Developing evaluative judgement: enabling students to make decisions about the quality of work"
 ShortSummary: "{SUMMARY}"
 ---
-#evaluative-judgment #cradle
+#evaluative-judgement #cradle
 
 # [[taiDevelopingEvaluativeJudgement2018.pdf]]
 *Joanna Tai, Rola Ajjawi, David Boud, Phillip Dawson, Ernesto Panadero*

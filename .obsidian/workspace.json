@@ -8,12 +8,108 @@
         "type": "tabs",
         "children": [
           {
-            "id": "757068a29cedd68f",
+            "id": "68af3568ef8ec676",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"
+                "file": "2️⃣ compendiums/Frameworks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "31a630b2a11d3294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2️⃣ compendiums/Technology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ca4753663e352134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2️⃣ compendiums/Human-Centred Pedagogy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "27f2850b2c0bba78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2️⃣ compendiums/Feedback.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ae3dbcd5d1499592",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": -715,
+                  "y": 1355.8399999999997,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "03faa5f1b8f45919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nicolPowerInternalFeedback2021.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "31ae6fad5b89603a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "carlessDevelopmentStudentFeedback2018.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8fc9e5e93cc0ff20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudSustainableAssessmentRevisited2016.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -52,8 +148,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7c5b44619a1ea7de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +194,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -119,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
+                "file": "🧭 Reference Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
+                "file": "🧭 Reference Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"
+                "file": "🧭 Reference Map.canvas"
               }
             }
           }
@@ -181,50 +291,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "757068a29cedd68f",
+  "active": "ae3dbcd5d1499592",
   "lastOpenFiles": [
-    "Untitled.md",
+    "nicolPowerInternalFeedback2021.md",
+    "🧭 Reference Map.canvas",
+    "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014.md",
+    "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014 1.md",
+    "2️⃣ compendiums/Feedback.md",
+    "2️⃣ compendiums/Assessment.md",
+    "2️⃣ compendiums/Human-Centred Pedagogy.md",
+    "2️⃣ compendiums/Technology.md",
+    "2️⃣ compendiums/Frameworks.md",
+    "2️⃣ compendiums/Culture.md",
+    "2️⃣ compendiums/Evaluative Judgement.md",
+    "1️⃣ sources/frameworks/assessment/evaluative-judgement/taiDevelopingEvaluativeJudgement2018.md",
+    "carlessDevelopmentStudentFeedback2018.md",
+    "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
+    "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
+    "_papers/IMCNLMHC/boudRethinkingAssessmentHigher2007.pdf",
+    "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudSustainableAssessmentRevisited2016.md",
+    "1️⃣ sources/frameworks/assessment/boudSustainableAssessmentRethinking2000.md",
+    "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudSustainableAssessmentRethinking2000.md",
+    "1️⃣ sources/frameworks/assessment/forde-leavesFrameworkUnderstandingAssessment2023.md",
+    "1️⃣ sources/frameworks/assessment/dawsonAssessmentMightDictate2013.md",
+    "1️⃣ sources/frameworks/assessment/x-forde-leavesFrameworkUnderstandingAssessment2023.md",
+    "🧭 Dissertation Map.canvas",
+    "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
     "1️⃣ sources/frameworks/technology/sweeneyWhereTransformationUnlocking2017.md",
     "1️⃣ sources/frameworks/technology/laiHowUseTechnology2019.md",
     "1️⃣ sources/frameworks/assessment/assessment-literacy",
     "1️⃣ sources/frameworks/assessment/feedback/dawsonWhatMakesEffective2019.md",
     "1️⃣ sources/frameworks/assessment/feedback",
     "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudAssessmentaslearningDevelopmentStudents2021.md",
-    "🧭 Reference Map.canvas",
     "1️⃣ sources/frameworks/assessment/evaluative-judgement/yanConceptualisingAssessmentaslearning2021.md",
-    "1️⃣ sources/frameworks/assessment/yanConceptualisingAssessmentaslearning2021.md",
-    "1️⃣ sources/frameworks/assessment/feedback/winstoneNeedDisentangleAssessment2022.md",
-    "1️⃣ sources/frameworks/assessment/winstoneNeedDisentangleAssessment2022.md",
-    "1️⃣ sources/frameworks/technology/modality/irvineLandscapeMergingModalities2020.md",
     "_papers/tmp-IovC2W/Gyamfi et al. - 2021 - The effects of rubrics on evaluative judgement a .pdf",
     "_papers/tmp-IovC2W",
     "_papers/I6KMYWAS/untitled.bib",
     "_papers/I6KMYWAS",
-    "1️⃣ sources/frameworks/technology/selwynUseComputerTechnology2007.md",
     "_papers/YP7AXV79/irvineLandscapeMergingModalities2020.pdf",
-    "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
     "1️⃣ sources/frameworks/technology/modality",
-    "🧭 Dissertation Map.canvas",
-    "1️⃣ sources/frameworks/technology/bowerTechnologyMediatedLearning2019.md",
     "assets/tiaf-venn.drawio.png",
-    "assets",
     "_papers/ZKV2Z797/menu-collapsed.png",
     "_papers/ZKV2Z797/feed.png",
     "_papers/ZKV2Z797/grippie.png",
-    "_papers/ZKV2Z797/status-active.gif",
-    "1️⃣ sources/frameworks/human-centred/molloyDevelopingLearningcentredFramework2020.md",
-    "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014.md",
-    "1️⃣ sources/frameworks/assessment/goldsteinResponseAssessmentLearning2017.md",
-    "1️⃣ sources/frameworks/human-centred/molloyDevelopingLearningcentredFramework2020.md",
-    "1️⃣ sources/frameworks/technology/bowerDesignTechnologyenhancedLearning2017.md",
-    "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
-    "_templates/source-note.md",
-    "1️⃣ sources/frameworks/assessment/assessment-literacy/masseyAssessmentLiteracyCollege2020.md",
-    "1️⃣ sources/frameworks/bowerTechnologyMediatedLearning2019.md",
-    "1️⃣ sources/methods/Survey.md",
-    "1️⃣ sources/methods/Expert Panel.md",
-    "1️⃣ sources/frameworks/assessment/feedback/Interviews.md",
-    "1️⃣ sources/frameworks/assessment/dawsonCognitiveOffloadingAssessment2020.md",
-    "1️⃣ sources/frameworks/technology/dawsonConcludingCommentsReimagining2020.md"
+    "_papers/ZKV2Z797/status-active.gif"
   ]
 }
