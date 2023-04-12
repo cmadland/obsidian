@@ -11,12 +11,14 @@
             "id": "68af3568ef8ec676",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2️⃣ compendiums/Frameworks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": -584.5,
+                  "y": 349,
+                  "zoom": -1.997114682938963
+                }
               }
             }
           },
@@ -50,9 +52,17 @@
             "id": "27f2850b2c0bba78",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f93c6d35455859d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2️⃣ compendiums/Feedback.md",
+                "file": "1️⃣ sources/assessment-purpose/earlAssessmentLearningUsing2013.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -60,17 +70,15 @@
             }
           },
           {
-            "id": "ae3dbcd5d1499592",
+            "id": "8231133c58a37995",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🧭 Reference Map.canvas",
-                "viewState": {
-                  "x": -715,
-                  "y": 1355.8399999999997,
-                  "zoom": 0
-                }
+                "file": "1️⃣ sources/technology/biggsWhatStudentDoes1999.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -106,7 +114,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudSustainableAssessmentRevisited2016.md",
+                "file": "1️⃣ sources/assessment-process/evaluative-judgement/boudSustainableAssessmentRevisited2016.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -129,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ sources/frameworks/assessment/feedback/dawsonWhatMakesEffective2019.md",
+                "file": "1️⃣ sources/assessment-process/feedback/dawsonWhatMakesEffective2019.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -142,7 +150,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014.md",
+                "file": "1️⃣ sources/assessment-process/feedback/nicolRethinkingFeedbackPractices2014.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -155,15 +163,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
+                "file": "1️⃣ sources/assessment-process/boudRethinkingAssessmentHigher2007.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,45 +298,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae3dbcd5d1499592",
+  "active": "68af3568ef8ec676",
   "lastOpenFiles": [
-    "nicolPowerInternalFeedback2021.md",
-    "🧭 Reference Map.canvas",
-    "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014.md",
-    "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014 1.md",
+    "2️⃣ compendiums/Frameworks.md",
+    "1️⃣ sources/assessment-purpose/earlAssessmentLearningUsing2013.md",
+    "1️⃣ sources/technology/🧭 Reference Map.canvas",
+    "1️⃣ sources/fairness",
+    "1️⃣ sources/assessment-purpose",
+    "1️⃣ sources/technology/biggsWhatStudentDoes1999.md",
     "2️⃣ compendiums/Feedback.md",
+    "assets/tiaf-q.png",
+    "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
+    "1️⃣ sources/technology/bowerTechnologyMediatedLearning2019.md",
+    "_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf",
+    "1️⃣ sources/assessment-process/dawsonAssessmentMightDictate2013.md",
+    "_papers/IMCNLMHC/boudRethinkingAssessmentHigher2007.pdf",
+    "1️⃣ sources/assessment-process/boudRethinkingAssessmentHigher2007.md",
+    "1️⃣ sources/assessment-process/boudReframingAssessmentResearch2018.md",
+    "_papers/WF22RT9W/taiDevelopingEvaluativeJudgement2018.pdf",
+    "_papers/5MCNDZQM/boudAssessmentaslearningDevelopmentStudents2021.pdf",
+    "nicolPowerInternalFeedback2021.md",
+    "1️⃣ sources/assessment-process/feedback/nicolRethinkingFeedbackPractices2014.md",
+    "1️⃣ sources/frameworks/assessment/feedback/nicolRethinkingFeedbackPractices2014 1.md",
     "2️⃣ compendiums/Assessment.md",
     "2️⃣ compendiums/Human-Centred Pedagogy.md",
     "2️⃣ compendiums/Technology.md",
-    "2️⃣ compendiums/Frameworks.md",
     "2️⃣ compendiums/Culture.md",
     "2️⃣ compendiums/Evaluative Judgement.md",
-    "1️⃣ sources/frameworks/assessment/evaluative-judgement/taiDevelopingEvaluativeJudgement2018.md",
+    "1️⃣ sources/assessment-process/evaluative-judgement/taiDevelopingEvaluativeJudgement2018.md",
     "carlessDevelopmentStudentFeedback2018.md",
-    "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
-    "1️⃣ sources/frameworks/assessment/boudRethinkingAssessmentHigher2007.md",
-    "_papers/IMCNLMHC/boudRethinkingAssessmentHigher2007.pdf",
-    "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudSustainableAssessmentRevisited2016.md",
+    "1️⃣ sources/assessment-process/evaluative-judgement/boudSustainableAssessmentRevisited2016.md",
     "1️⃣ sources/frameworks/assessment/boudSustainableAssessmentRethinking2000.md",
-    "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudSustainableAssessmentRethinking2000.md",
-    "1️⃣ sources/frameworks/assessment/forde-leavesFrameworkUnderstandingAssessment2023.md",
-    "1️⃣ sources/frameworks/assessment/dawsonAssessmentMightDictate2013.md",
+    "1️⃣ sources/assessment-process/evaluative-judgement/boudSustainableAssessmentRethinking2000.md",
+    "1️⃣ sources/assessment-process/forde-leavesFrameworkUnderstandingAssessment2023.md",
     "1️⃣ sources/frameworks/assessment/x-forde-leavesFrameworkUnderstandingAssessment2023.md",
     "🧭 Dissertation Map.canvas",
-    "_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf",
-    "1️⃣ sources/frameworks/technology/sweeneyWhereTransformationUnlocking2017.md",
-    "1️⃣ sources/frameworks/technology/laiHowUseTechnology2019.md",
-    "1️⃣ sources/frameworks/assessment/assessment-literacy",
-    "1️⃣ sources/frameworks/assessment/feedback/dawsonWhatMakesEffective2019.md",
-    "1️⃣ sources/frameworks/assessment/feedback",
-    "1️⃣ sources/frameworks/assessment/evaluative-judgement/boudAssessmentaslearningDevelopmentStudents2021.md",
-    "1️⃣ sources/frameworks/assessment/evaluative-judgement/yanConceptualisingAssessmentaslearning2021.md",
+    "1️⃣ sources/technology/sweeneyWhereTransformationUnlocking2017.md",
+    "1️⃣ sources/technology/laiHowUseTechnology2019.md",
+    "1️⃣ sources/assessment-process/assessment-literacy",
+    "1️⃣ sources/assessment-process/feedback",
     "_papers/tmp-IovC2W/Gyamfi et al. - 2021 - The effects of rubrics on evaluative judgement a .pdf",
-    "_papers/tmp-IovC2W",
-    "_papers/I6KMYWAS/untitled.bib",
-    "_papers/I6KMYWAS",
-    "_papers/YP7AXV79/irvineLandscapeMergingModalities2020.pdf",
-    "1️⃣ sources/frameworks/technology/modality",
     "assets/tiaf-venn.drawio.png",
     "_papers/ZKV2Z797/menu-collapsed.png",
     "_papers/ZKV2Z797/feed.png",
