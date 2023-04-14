@@ -40,3 +40,17 @@ annotation-target: dawsonAssessmentMightDictate2013.pdf
 
 
 %% Import Date: 2023-04-05T06:25:26.802-07:00 %%
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-13T14:10:29.240Z","updated":"2023-04-13T14:10:29.240Z","document":{"title":"dawsonAssessmentMightDictate2013.pdf","link":[{"href":"urn:x-pdf:e4c6ed10506f384a8cae181a0afcba27"},{"href":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf"}],"documentFingerprint":"e4c6ed10506f384a8cae181a0afcba27"},"uri":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf","target":[{"source":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf","selector":[{"type":"TextPositionSelector","start":1893,"end":2104},{"type":"TextQuoteSelector","exact":"as  Boud  (1995)  states,  “Students  can,  with  difficulty,  escape  from  the  effects  of  poor teaching, they cannot (by definition if they want to graduate) escape the effects of poor assessment” (p. 35). ","prefix":"f a university teacher’s work;  ","suffix":"It is also a particularly demand"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% as  Boud  (1995)  states,  “Students  can,  with  difficulty,  escape  from  the  effects  of  poor teaching, they cannot (by definition if they want to graduate) escape the effects of poor assessment” (p. 35). *
+>%%LINK%%[[#^1mjsggc2abu|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1mjsggc2abu

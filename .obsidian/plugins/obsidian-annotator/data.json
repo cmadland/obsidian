@@ -2,7 +2,7 @@
   "deafultDarkMode": true,
   "darkReaderSettings": {
     "brightness": 150,
-    "contrast": 85,
+    "contrast": 131,
     "sepia": 0
   },
   "debugLogging": false,
@@ -14,7 +14,7 @@
   "annotationMarkdownSettings": {
     "annotationModeByDefault": false,
     "includePrefix": false,
-    "highlightHighlightedText": true,
+    "highlightHighlightedText": false,
     "includePostfix": false
   }
 }
