@@ -54,3 +54,31 @@ annotation-target: dawsonAssessmentMightDictate2013.pdf
 >%%TAGS%%
 >
 ^1mjsggc2abu
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-16T04:30:36.151Z","updated":"2023-04-16T04:30:36.151Z","document":{"title":"dawsonAssessmentMightDictate2013.pdf","link":[{"href":"urn:x-pdf:e4c6ed10506f384a8cae181a0afcba27"},{"href":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf"}],"documentFingerprint":"e4c6ed10506f384a8cae181a0afcba27"},"uri":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf","target":[{"source":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf","selector":[{"type":"TextPositionSelector","start":3807,"end":3895},{"type":"TextQuoteSelector","exact":"Table 1 Three Levels of Assessment Decisions with Questions commonly Asked at Each Level","prefix":"iffer-ent people. (See Table 1).","suffix":"D e C I S I O n   L e V e L q u "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Table 1 Three Levels of Assessment Decisions with Questions commonly Asked at Each Level*
+>%%LINK%%[[#^7sqjcffav5h|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7sqjcffav5h
+
+
+>%%
+>```annotation-json
+>{"created":"2023-04-16T04:30:51.608Z","updated":"2023-04-16T04:30:51.608Z","document":{"title":"dawsonAssessmentMightDictate2013.pdf","link":[{"href":"urn:x-pdf:e4c6ed10506f384a8cae181a0afcba27"},{"href":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf"}],"documentFingerprint":"e4c6ed10506f384a8cae181a0afcba27"},"uri":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf","target":[{"source":"vault:/_papers/TZP9XX9L/dawsonAssessmentMightDictate2013.pdf","selector":[{"type":"TextPositionSelector","start":4892,"end":5185},{"type":"TextQuoteSelector","exact":"The  cumulative  implications  of  these  assessment  decisions  are  not  currently  well  understood. This may be partly because assessment decision- making is oft en dispersed across the academic workforce, with not all academics having responsibility for making decisions across all levels","prefix":"tcomes if I give brief feedback?","suffix":". If we include sessional and pa"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%The  cumulative  implications  of  these  assessment  decisions  are  not  currently  well  understood. This may be partly because assessment decision- making is oft en dispersed across the academic workforce, with not all academics having responsibility for making decisions across all levels*
+>%%LINK%%[[#^4deyut4mcjg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4deyut4mcjg
