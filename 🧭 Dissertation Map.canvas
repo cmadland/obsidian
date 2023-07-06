@@ -28,9 +28,9 @@
 		{"type":"text","text":"Possible Methods","id":"5349ae131c0cb11f","x":460,"y":514,"width":250,"height":60},
 		{"type":"text","text":"Paper 1","id":"42724b15a5202eff","x":1953,"y":207,"width":120,"height":60,"color":"4"},
 		{"type":"text","text":"## Technology-Integrated Assessment Framework","id":"54b57efbc064f5dc","x":85,"y":371,"width":230,"height":177,"color":"6"},
-		{"id":"9aa2bccb8d4e4321","x":980,"y":320,"width":250,"height":60,"type":"text","text":"content validity"},
-		{"id":"b479468224cf4b7c","x":947,"y":768,"width":250,"height":132,"type":"text","text":"not analyzing the framework, but a self-analysis, institutional diagnostic tool, directed toward planning pro-d"},
-		{"id":"0f5f87353e0cae6d","x":1348,"y":778,"width":250,"height":122,"type":"text","text":"maybe just one uni, but bccampus is providing funding"}
+		{"type":"text","text":"not analyzing the framework, but a self-analysis, institutional diagnostic tool, directed toward planning pro-d","id":"b479468224cf4b7c","x":947,"y":768,"width":250,"height":132},
+		{"type":"text","text":"maybe just one uni, but bccampus is providing funding","id":"0f5f87353e0cae6d","x":1348,"y":778,"width":250,"height":122},
+		{"type":"text","text":"content validity","id":"9aa2bccb8d4e4321","x":980,"y":311,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3f49dedb4d80d6cc","fromNode":"28edd122bd1fc94c","fromSide":"left","toNode":"adb608b17cc72ca2","toSide":"left"},

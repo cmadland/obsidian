@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false

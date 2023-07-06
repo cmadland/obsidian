@@ -40,11 +40,7 @@ Digital technologies have transformed society, but assessment design may not hav
 
  
 
-University teachers consider technology-supported assessment to be “contemporary and innovative” (Bennett et al. 2017, 676) and this view is likely be a key driver for many technology-based assessment designs. However, technology in and of itself is not a panacea, 
-
- 
-
-it needs to take account of the complex social realities of educational practice (Kearsley 1998; Selwyn 2010). 
+University teachers consider technology-supported assessment to be “contemporary and innovative” (Bennett et al. 2017, 676) and this view is likely be a key driver for many technology-based assessment designs. However, technology in and of itself is not a panacea, it needs to take account of the complex social realities of educational practice (Kearsley 1998; Selwyn 2010). 
 
  
 
