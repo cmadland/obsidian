@@ -14,15 +14,18 @@ annotation-target: fullerTechnologyEnhancedAssessment2022.pdf
 
 
 > [!tldr] Summary
-> A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 
+> - consensus recommendations from a meeting of health professions educators in 2020. 
+> - Sound recommendations regarding the importance of #human-centred assessment and the attendant need to consider equity of access
 
 > [!cite] Bibliography
 >Fuller, R., Goddard, V., Nadarajah, V., Treasure-Jones, T., Yeates, P., Scott, K., Webb, A., Valter, K., & Pyorala, E. (2022). Technology enhanced assessment: Ottawa consensus statement and recommendations. _Medical Teacher_, _44_(8), 836–850. [https://doi.org/10.1080/0142159X.2022.2083489](https://doi.org/10.1080/0142159X.2022.2083489)
 
 > [!quote] Quotable
-> Imagine you would quote this paper in your publication. How would you do it? It is probably just one sentence followed by the reference. It is the most intense condensation of the information in this paper and forces you to be on point. 
-> 
-> You can have multiple alternatives. 
+>One of the key recommendations of this Ottawa consensus is to ‘put aside the technology’ and investigate four critical areas associated with TEA:
+ > - The quality of existing assessment practice
+ > - The purpose of introducing TEA
+ > - Engagement with digital equity challenges
+ > - Institutional capacity to adopt technology
 
 
 #### Aim of Paper
@@ -616,3 +619,101 @@ annotation-target: fullerTechnologyEnhancedAssessment2022.pdf
 >%%TAGS%%
 >
 ^gc3mi1qnar
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T01:56:40.711Z","text":"evaluative judgement is future focussed, not just self-assessment","updated":"2023-07-31T01:56:40.711Z","document":{"title":"Technology enhanced assessment: Ottawa consensus statement and recommendations","link":[{"href":"urn:x-pdf:303039e3bd9093272808ae404c3c6c32"},{"href":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf"}],"documentFingerprint":"303039e3bd9093272808ae404c3c6c32"},"uri":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","target":[{"source":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","selector":[{"type":"TextPositionSelector","start":29200,"end":29870},{"type":"TextQuoteSelector","exact":"Pedagogically, the focus of assessment continues to shiftfrom a sole focus of the assessment of learning to a greaterrepresentation of assessment for learning and thus to‘sustainable assessment’(Boud 2000). The goal is not onlyto give grades on the students’performance today but tosupport their future learning and growth of self-regulatedlearning skills, the ability to set goals for their learning, andmonitor their knowledge, skills, and behaviour. Sustainableassessment emphasises that the student should learn theability to assess their own performance not only in theireducational settings but throughout their future workinglives (Boud 2000; Boud and Soler 2016)","prefix":"hnol-ogy, and clinical practice.","suffix":".In TEA, this means that we shou"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Pedagogically, the focus of assessment continues to shiftfrom a sole focus of the assessment of learning to a greaterrepresentation of assessment for learning and thus to‘sustainable assessment’(Boud 2000). The goal is not onlyto give grades on the students’performance today but tosupport their future learning and growth of self-regulatedlearning skills, the ability to set goals for their learning, andmonitor their knowledge, skills, and behaviour. Sustainableassessment emphasises that the student should learn theability to assess their own performance not only in theireducational settings but throughout their future workinglives (Boud 2000; Boud and Soler 2016)== *
+>%%LINK%%[[#^khq37dgpd6|show annotation]]
+>%%COMMENT%%
+>evaluative judgement is future focussed, not just self-assessment
+>%%TAGS%%
+>#evaluative-judgement
+^khq37dgpd6
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T03:22:09.245Z","updated":"2023-07-31T03:22:09.245Z","document":{"title":"Technology enhanced assessment: Ottawa consensus statement and recommendations","link":[{"href":"urn:x-pdf:303039e3bd9093272808ae404c3c6c32"},{"href":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf"}],"documentFingerprint":"303039e3bd9093272808ae404c3c6c32"},"uri":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","target":[{"source":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","selector":[{"type":"TextPositionSelector","start":71715,"end":72333},{"type":"TextQuoteSelector","exact":"Whilst predictions around technology trends of the next10 years may highlight broader changes to work, (health),and society (Gartner 2015), more fundamental to HPE ishow learning technologies will shift their axes to focus onpeople—transformative competencies (e.g. creativity andinnovation), learner agency and well-being (OECD 2015).These present interesting potential for TEA, thinking abouthow we ‘assess’learners’ability to engage with these tech-nologies to support their self-regulation, development, con-tribution, and self-care. Technology futurists point to‘human only traits’(e.g. compassion, creativity) as","prefix":"our strategic approaches to TEA.","suffix":"846 R. FULLER ET AL.increasingly"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Whilst predictions around technology trends of the next10 years may highlight broader changes to work, (health),and society (Gartner 2015), more fundamental to HPE ishow learning technologies will shift their axes to focus onpeople—transformative competencies (e.g. creativity andinnovation), learner agency and well-being (OECD 2015).These present interesting potential for TEA, thinking abouthow we ‘assess’learners’ability to engage with these tech-nologies to support their self-regulation, development, con-tribution, and self-care. Technology futurists point to‘human only traits’(e.g. compassion, creativity) as== *
+>%%LINK%%[[#^h01s053i1gc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^h01s053i1gc
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T03:22:31.688Z","updated":"2023-07-31T03:22:31.688Z","document":{"title":"Technology enhanced assessment: Ottawa consensus statement and recommendations","link":[{"href":"urn:x-pdf:303039e3bd9093272808ae404c3c6c32"},{"href":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf"}],"documentFingerprint":"303039e3bd9093272808ae404c3c6c32"},"uri":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","target":[{"source":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","selector":[{"type":"TextPositionSelector","start":72353,"end":72647},{"type":"TextQuoteSelector","exact":"increasingly valuable as we learn, and provide healthcare,using more automation (Leonhard 2021). How we ‘assess’these traits, practice-based ethics, and decision making(and abdication from automated systems) in our co-exist-ence with technology will prove major challenges forassessment in HPE.","prefix":"eativity) as846 R. FULLER ET AL.","suffix":"A key theme throughout the devel"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==increasingly valuable as we learn, and provide healthcare,using more automation (Leonhard 2021). How we ‘assess’these traits, practice-based ethics, and decision making(and abdication from automated systems) in our co-exist-ence with technology will prove major challenges forassessment in HPE.== *
+>%%LINK%%[[#^l0oha9aw1ws|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^l0oha9aw1ws
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T03:22:58.985Z","text":"better assessment futures focusing on skills and learning that are transformative.","updated":"2023-07-31T03:22:58.985Z","document":{"title":"Technology enhanced assessment: Ottawa consensus statement and recommendations","link":[{"href":"urn:x-pdf:303039e3bd9093272808ae404c3c6c32"},{"href":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf"}],"documentFingerprint":"303039e3bd9093272808ae404c3c6c32"},"uri":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","target":[{"source":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","selector":[{"type":"TextPositionSelector","start":72647,"end":73078},{"type":"TextQuoteSelector","exact":"A key theme throughout the development of this con-sensus from all contributors points to the need for technol-ogy to truly enable ‘better assessment futures.’In HPE, thistranslates to focus on the learning and skills needed todeliver this and to ensure that truly transformative TEAconsiders not just the assessment lifecycle, but the needsof learners, faculty, and patients in the pursuit of authenticassessment using technology.","prefix":"challenges forassessment in HPE.","suffix":"AcknowledgmentsWe would like to "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==A key theme throughout the development of this con-sensus from all contributors points to the need for technol-ogy to truly enable ‘better assessment futures.’In HPE, thistranslates to focus on the learning and skills needed todeliver this and to ensure that truly transformative TEAconsiders not just the assessment lifecycle, but the needsof learners, faculty, and patients in the pursuit of authenticassessment using technology.== *
+>%%LINK%%[[#^we2ehuz8jic|show annotation]]
+>%%COMMENT%%
+>better assessment futures focusing on skills and learning that are transformative.
+>%%TAGS%%
+>#human-centred assessment
+^we2ehuz8jic
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T03:26:20.302Z","updated":"2023-07-31T03:26:20.302Z","document":{"title":"Technology enhanced assessment: Ottawa consensus statement and recommendations","link":[{"href":"urn:x-pdf:303039e3bd9093272808ae404c3c6c32"},{"href":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf"}],"documentFingerprint":"303039e3bd9093272808ae404c3c6c32"},"uri":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","target":[{"source":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","selector":[{"type":"TextPositionSelector","start":11523,"end":11656},{"type":"TextQuoteSelector","exact":"Technology should be the enabler of assessment,not the focus and driver of assessment, withactive engagement of students and faculty.","prefix":"ducts’involved with assessment.\u000f","suffix":"\u000fStudents should be actively inv"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Technology should be the enabler of assessment,not the focus and driver of assessment, withactive engagement of students and faculty.== *
+>%%LINK%%[[#^d2rj2c4y6w5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d2rj2c4y6w5
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T03:26:40.072Z","updated":"2023-07-31T03:26:40.072Z","document":{"title":"Technology enhanced assessment: Ottawa consensus statement and recommendations","link":[{"href":"urn:x-pdf:303039e3bd9093272808ae404c3c6c32"},{"href":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf"}],"documentFingerprint":"303039e3bd9093272808ae404c3c6c32"},"uri":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","target":[{"source":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","selector":[{"type":"TextPositionSelector","start":11757,"end":11922},{"type":"TextQuoteSelector","exact":"The adoption of new technologies in assessmentcan be associated with substantial risk, as well asopportunity, and can increase the impact of poorassessment practice.","prefix":"Technology Enhanced Assessment.\u000f","suffix":"\u000fTechnology should maximise auth"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==The adoption of new technologies in assessmentcan be associated with substantial risk, as well asopportunity, and can increase the impact of poorassessment practice.== *
+>%%LINK%%[[#^474mdh81k6k|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^474mdh81k6k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T03:28:15.936Z","text":"costs of 'add-on' technology is greater than perceived or actual gains in efficiency","updated":"2023-07-31T03:28:15.936Z","document":{"title":"Technology enhanced assessment: Ottawa consensus statement and recommendations","link":[{"href":"urn:x-pdf:303039e3bd9093272808ae404c3c6c32"},{"href":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf"}],"documentFingerprint":"303039e3bd9093272808ae404c3c6c32"},"uri":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","target":[{"source":"vault:/_papers/RHIVYLLC/fullerTechnologyEnhancedAssessment2022.pdf","selector":[{"type":"TextPositionSelector","start":13180,"end":13542},{"type":"TextQuoteSelector","exact":"As identified in the previous section, non-critical adop-tion of technology in assessment means potential benefitscould be offset by a range of potential disadvantages (aca-demic, financial, and institutional). Critical to the adoptionof technology is the need to ‘assess assessment,’to ensurethat any sub-optimal assessment practices are identifiedand resolved.","prefix":"ust around assessment processes.","suffix":"One of the key recommendations o"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==As identified in the previous section, non-critical adop-tion of technology in assessment means potential benefitscould be offset by a range of potential disadvantages (aca-demic, financial, and institutional). Critical to the adoptionof technology is the need to ‘assess assessment,’to ensurethat any sub-optimal assessment practices are identifiedand resolved.== *
+>%%LINK%%[[#^hgzwbau9dw|show annotation]]
+>%%COMMENT%%
+>costs of 'add-on' technology is greater than perceived or actual gains in efficiency
+>%%TAGS%%
+>#assessing assessment
+^hgzwbau9dw

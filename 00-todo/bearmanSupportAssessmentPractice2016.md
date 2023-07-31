@@ -33,6 +33,9 @@ annotation-target: bearmanSupportAssessmentPractice2016.pdf
 
 #### Related
 
+[[offerdahlChangesInstructorsAssessment2011]]
+[[nicolFormativeAssessmentSelf2006]]
+
 #### Annotations
 
 
@@ -128,3 +131,116 @@ Like Price et al. (2011), we hold the premise that, while assessment strategies 
 
 
 %% Import Date: 2023-06-26T07:51:19.820-07:00 %%
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T14:27:57.431Z","updated":"2023-07-31T14:27:57.431Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":3041,"end":3240},{"type":"TextQuoteSelector","exact":"A range of conceptual and empirical pub-lications informing assessment are readily available to most university teachers (e.g. Goreet al. 2009; Boud 2010; Van der Vleuten et al. 2012; Falchikov 2013)","prefix":"f higher education scholarship. ","suffix":". In general, the litera-ture fo"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==A range of conceptual and empirical pub-lications informing assessment are readily available to most university teachers (e.g. Goreet al. 2009; Boud 2010; Van der Vleuten et al. 2012; Falchikov 2013)== *
+>%%LINK%%[[#^d2dkgp4ymqk|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d2dkgp4ymqk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T14:28:27.689Z","updated":"2023-07-31T14:28:27.689Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":4027,"end":4195},{"type":"TextQuoteSelector","exact":"conceptualisation and development of a learner-focused resource, which supports educa-tors’agency in making considered, nuanced and effective assessment design choices.","prefix":"rg/10.1080/13562517.2016.1160217","suffix":"The need for such a resource is "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==conceptualisation and development of a learner-focused resource, which supports educa-tors’agency in making considered, nuanced and effective assessment design choices.== *
+>%%LINK%%[[#^5dkr9svc4kt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5dkr9svc4kt
+
+
+
+>%%
+>```annotation-json
+>{"text":"#work-as-done","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":4625,"end":6029},{"type":"TextQuoteSelector","exact":"Developing assessment literacy seems a reasonable aim, but on further inspection mayonly be one part of the solution. Studies into conceptions of assessment indicate the sig-nificant variation in how individual academics think about assessment (Fletcher et al.2012) and how these conceptualisations can be at odds with what academics do(Norton, Norton, and Shannon 2013). Offerdahl and Tomanek (2011) describe how indi-viduals’changed thinking about assessment may not lead to changed teaching practices. Inthis case study, three educators considered student-centred strategies, such as using for-mative assessment that revealed information about students’progress to inform teaching.These strategies were implemented, but ultimately realigned to the previous didacticapproach that focused on students’provision of correct ‘answers’. Offerdahl andTomanek (2011) speculate that a stronger degree of dissatisfaction with the status quomay be required to stimulate genuine change. Their study highlights three issues. First,it is more difficult to change assessment practices than it is to change theoretical under-standings. Second, there are little data that reveal the reasons for educators’assessmentchoices. Finally, if institutions and departments wish to support individual educators toimprove assessments, they must consider the influence of the many contextual factorswhich shape educator practice.","prefix":"ls of both faculty and students.","suffix":"These complexities and tensions "}]}],"created":"2023-07-31T14:30:06.601Z","updated":"2023-07-31T14:30:06.601Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Developing assessment literacy seems a reasonable aim, but on further inspection mayonly be one part of the solution. Studies into conceptions of assessment indicate the sig-nificant variation in how individual academics think about assessment (Fletcher et al.2012) and how these conceptualisations can be at odds with what academics do(Norton, Norton, and Shannon 2013). Offerdahl and Tomanek (2011) describe how indi-viduals’changed thinking about assessment may not lead to changed teaching practices. Inthis case study, three educators considered student-centred strategies, such as using for-mative assessment that revealed information about students’progress to inform teaching.These strategies were implemented, but ultimately realigned to the previous didacticapproach that focused on students’provision of correct ‘answers’. Offerdahl andTomanek (2011) speculate that a stronger degree of dissatisfaction with the status quomay be required to stimulate genuine change. Their study highlights three issues. First,it is more difficult to change assessment practices than it is to change theoretical under-standings. Second, there are little data that reveal the reasons for educators’assessmentchoices. Finally, if institutions and departments wish to support individual educators toimprove assessments, they must consider the influence of the many contextual factorswhich shape educator practice.== *
+>%%LINK%%[[#^k4zthhgl1jp|show annotation]]
+>%%COMMENT%%
+>#work-as-done
+>%%TAGS%%
+>
+^k4zthhgl1jp
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T14:35:10.509Z","text":"#definition","updated":"2023-07-31T14:35:10.509Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":8716,"end":8940},{"type":"TextQuoteSelector","exact":"Then, as at present, we defineuniversity assessment as the graded and non-graded tasks, undertaken by an enrolledstudent as part of their formal study, where the learner’s performance is judged byothers (teachers or peers). ","prefix":"s significant about assessment. ","suffix":"Like Price et al. (2011), we hol"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Then, as at present, we defineuniversity assessment as the graded and non-graded tasks, undertaken by an enrolledstudent as part of their formal study, where the learner’s performance is judged byothers (teachers or peers).== *
+>%%LINK%%[[#^dpippr56v6g|show annotation]]
+>%%COMMENT%%
+>#definition
+>%%TAGS%%
+>
+^dpippr56v6g
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T14:35:42.099Z","updated":"2023-07-31T14:35:42.099Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":8940,"end":9219},{"type":"TextQuoteSelector","exact":"Like Price et al. (2011), we hold the premise that, while assess-ment strategies should balance complex and interdependent purposes including accredita-tion and portrayal of achievements, assessment activities should focus on learning anddiscourage mechanical approaches to study","prefix":"d byothers (teachers or peers). ","suffix":". We also claim that assessment "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Like Price et al. (2011), we hold the premise that, while assess-ment strategies should balance complex and interdependent purposes including accredita-tion and portrayal of achievements, assessment activities should focus on learning anddiscourage mechanical approaches to study== *
+>%%LINK%%[[#^f344y5x47c4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^f344y5x47c4
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T14:39:52.243Z","text":"#evaluative-judgement","updated":"2023-07-31T14:39:52.243Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":9221,"end":9407},{"type":"TextQuoteSelector","exact":"We also claim that assessment practicesshould develop learners’own capacities to evaluate their own work to prepare them forfuture challenges beyond the support of teachers and courses. ","prefix":"mechanical approaches to study. ","suffix":"Assessment necessarilydirects le"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==We also claim that assessment practicesshould develop learners’own capacities to evaluate their own work to prepare them forfuture challenges beyond the support of teachers and courses.== *
+>%%LINK%%[[#^boyem658ct8|show annotation]]
+>%%COMMENT%%
+>#evaluative-judgement
+>%%TAGS%%
+>
+^boyem658ct8
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T14:41:09.964Z","text":"levels of decision-making","updated":"2023-07-31T14:41:09.964Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":11740,"end":11911},{"type":"TextQuoteSelector","exact":"We notedthat different decisions about assessment occur at different points in the lifespan of aprogram, and different people make these decisions for different purposes. ","prefix":" actions are taken and by whom. ","suffix":"Some assess-ment decisions are m"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==We notedthat different decisions about assessment occur at different points in the lifespan of aprogram, and different people make these decisions for different purposes.== *
+>%%LINK%%[[#^hrnmzxnmgt|show annotation]]
+>%%COMMENT%%
+>levels of decision-making
+>%%TAGS%%
+>
+^hrnmzxnmgt
+
+
+>%%
+>```annotation-json
+>{"created":"2023-07-31T14:41:45.691Z","updated":"2023-07-31T14:41:45.691Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":12854,"end":13040},{"type":"TextQuoteSelector","exact":"All three types of assessments decisions –policy, design and judgement –are significantbut, given that they are taken by different people at different times, require different sup-ports.","prefix":"ken independently of each other.","suffix":" The focus of this project was s"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==All three types of assessments decisions –policy, design and judgement –are significantbut, given that they are taken by different people at different times, require different sup-ports.== *
+>%%LINK%%[[#^8e01oebzque|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8e01oebzque
