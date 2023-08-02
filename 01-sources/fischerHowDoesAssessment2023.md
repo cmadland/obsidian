@@ -13,15 +13,13 @@ annotation-target: fischerHowDoesAssessment2023.pdf
 
 
 > [!tldr] Summary
-> A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 
+> Learning is a consequence of what learners DO, not what anyone else does; and learners do various things depending on the assessment.
 
 > [!cite] Bibliography
 >Fischer, J., Bearman, M., Boud, D., & Tai, J. (2023). How does assessment drive learning? A focus on students’ development of evaluative judgement. _Assessment & Evaluation in Higher Education_, 1–13. [https://doi.org/10.1080/02602938.2023.2206986](https://doi.org/10.1080/02602938.2023.2206986)
 
 > [!quote] Quotable
-> Imagine you would quote this paper in your publication. How would you do it? It is probably just one sentence followed by the reference. It is the most intense condensation of the information in this paper and forces you to be on point. 
-> 
-> You can have multiple alternatives. 
+> Rather  than  a  directed  application  of  knowledge,  ideas  and  beliefs,  practices  emerge  and  evolve  in  undetermined  ways.  Practices  are  historical  and  contex-tual  instead  of  being  stable  or  homogeneous  routines,  and  knowledge  is  viewed  as  a  product  of  collective  practice,  not  just  information  that  can  be  transmitted  to  others.  
 
 
 #### Aim of Paper
@@ -31,6 +29,8 @@ annotation-target: fischerHowDoesAssessment2023.pdf
 
 
 #### Related
+
+[[taiDevelopingEvaluativeJudgement2018]]
 
 #### Annotations
 
