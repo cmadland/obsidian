@@ -5,9 +5,11 @@
     "children": [
       {
         "id": "b29ab405133c719f",
+        "id": "b29ab405133c719f",
         "type": "tabs",
         "children": [
           {
+            "id": "81eb3d0b91813ada",
             "id": "81eb3d0b91813ada",
             "type": "leaf",
             "state": {
