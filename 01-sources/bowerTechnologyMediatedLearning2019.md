@@ -234,3 +234,87 @@ Finally, and more broadly, the field of technology-enhanced learning has been pr
 >%%TAGS%%
 >
 ^fhucyingr7c
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-06T14:32:27.755Z","updated":"2023-08-06T14:32:27.755Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":3686,"end":3917},{"type":"TextQuoteSelector","exact":"The term “mediated” can have several meanings, and in this paper the term “technology-medi-ated  learning”  is  used  to  imply  that  technology  is  the  means  by  which  information  is  conveyed  and people are linked together","prefix":"re technology mediates learning.","suffix":". For instance, when an educator"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==The term “mediated” can have several meanings, and in this paper the term “technology-medi-ated  learning”  is  used  to  imply  that  technology  is  the  means  by  which  information  is  conveyed  and people are linked together== *
+>%%LINK%%[[#^9zkwg19auj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^9zkwg19auj
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-06T14:33:13.833Z","updated":"2023-08-06T14:33:13.833Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":4462,"end":4889},{"type":"TextQuoteSelector","exact":"While Carse (1986) points out that in an ideal world the technology would be so transparent that users do not notice it is there, in reality the technologies, their features, and the way in which they are used, do have a substantial influence  on  activity  and  learning,  and  thus  is  it  important  the  technology-enhanced  learning  field has a domain-specific and comprehensive means of  analysing their educational use","prefix":"he entire set of  interactions. ","suffix":".Practitioner NotesWhat is alrea"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==While Carse (1986) points out that in an ideal world the technology would be so transparent that users do not notice it is there, in reality the technologies, their features, and the way in which they are used, do have a substantial influence  on  activity  and  learning,  and  thus  is  it  important  the  technology-enhanced  learning  field has a domain-specific and comprehensive means of  analysing their educational use== *
+>%%LINK%%[[#^53lgp360e8t|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^53lgp360e8t
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-06T14:37:49.203Z","updated":"2023-08-06T14:37:49.203Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":10209,"end":10406},{"type":"TextQuoteSelector","exact":"For  this  reason,  the  term  “intentional  agency”  is  used  in  the  fundamen-tal assumption above, to clarify that the agency we are talking about is purposeful and emerges from  participants.","prefix":"Goodyear &  Carvalho,  2014a).  ","suffix":"  This  notion  that  humans  ha"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==For  this  reason,  the  term  “intentional  agency”  is  used  in  the  fundamen-tal assumption above, to clarify that the agency we are talking about is purposeful and emerges from  participants.== *
+>%%LINK%%[[#^d201nweulzt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d201nweulzt
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-06T14:38:19.273Z","updated":"2023-08-06T14:38:19.273Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":10863,"end":11178},{"type":"TextQuoteSelector","exact":"It  is  particularly  important,  at  least  from  an  epistemological  perspective,  to  make  the  funda-mental assumption of  technology-mediated learning explicit, because it places responsibility for technology-mediated  learning  decisions  entirely  with  people  (most  notably,  teachers  and  stu-dents). ","prefix":"ontexts (Wang & Hannafin, 2005).","suffix":" Though  the  assumption  that  "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==It  is  particularly  important,  at  least  from  an  epistemological  perspective,  to  make  the  funda-mental assumption of  technology-mediated learning explicit, because it places responsibility for technology-mediated  learning  decisions  entirely  with  people  (most  notably,  teachers  and  stu-dents).== *
+>%%LINK%%[[#^qazklbjfwm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qazklbjfwm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-06T14:38:50.528Z","updated":"2023-08-06T14:38:50.528Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":11986,"end":12107},{"type":"TextQuoteSelector","exact":"Premise 1: Digital technologies can perform a mediating role for participants in their attempts to achieve learning goals","prefix":" of technology-mediated learning","suffix":"From  the  perspective  of  Acti"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Premise 1: Digital technologies can perform a mediating role for participants in their attempts to achieve learning goals== *
+>%%LINK%%[[#^l2sq1n5jfe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^l2sq1n5jfe
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-06T14:40:16.367Z","updated":"2023-08-06T14:40:16.367Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":13988,"end":14137},{"type":"TextQuoteSelector","exact":"Premise 2: In technology-mediated learning contexts, participant beliefs, knowledge, practices and the environment all mutually influence one another","prefix":"re technology mediates learning.","suffix":"Social  Cognitive  Theory  (Band"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Premise 2: In technology-mediated learning contexts, participant beliefs, knowledge, practices and the environment all mutually influence one another== *
+>%%LINK%%[[#^7w1672j5g3e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7w1672j5g3e
