@@ -124,3 +124,17 @@ annotation-target: kozmaWillMediaInfluence1994.pdf
 >%%TAGS%%
 >
 ^4ped1xcizew
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T20:41:29.990Z","updated":"2023-08-07T20:41:29.990Z","document":{"title":"7_1.tif","link":[{"href":"urn:x-pdf:c6b813f4055702aa8d3d88581c3bea12"},{"href":"vault:/_papers/WSBN32R2/kozmaWillMediaInfluence1994.pdf"}],"documentFingerprint":"c6b813f4055702aa8d3d88581c3bea12"},"uri":"vault:/_papers/WSBN32R2/kozmaWillMediaInfluence1994.pdf","target":[{"source":"vault:/_papers/WSBN32R2/kozmaWillMediaInfluence1994.pdf","selector":[{"type":"TextPositionSelector","start":4929,"end":5437},{"type":"TextQuoteSelector","exact":"E m b e d d e d    in  the  instructional  presentations a n d    criterion-referenced  tests  of  our  instruc- tional designs (Dick & Carey, 1990)  and e m b e d d e d    in  the  comparative  media  studies included in Clark's (1983) review are the primal stimuli a n d   responses  of  the  behavioral  para- digm. Media stimuli are classified and differen- tiated b a s e d  o n   surface features of their technologies  a n d   their  effect  on  learning  is c o m p a r e d   using responses on a tes","prefix":"chey, 1992;  Winn, 1989, 1990). ","suffix":"t. Missing in these studies are "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==E m b e d d e d    in  the  instructional  presentations a n d    criterion-referenced  tests  of  our  instruc- tional designs (Dick & Carey, 1990)  and e m b e d d e d    in  the  comparative  media  studies included in Clark's (1983) review are the primal stimuli a n d   responses  of  the  behavioral  para- digm. Media stimuli are classified and differen- tiated b a s e d  o n   surface features of their technologies  a n d   their  effect  on  learning  is c o m p a r e d   using responses on a tes== *
+>%%LINK%%[[#^hc6hiqseg8f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^hc6hiqseg8f

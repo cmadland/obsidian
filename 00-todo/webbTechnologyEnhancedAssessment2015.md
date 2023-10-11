@@ -54,3 +54,45 @@ annotation-target: webbTechnologyEnhancedAssessment2015.pdf
 >%%TAGS%%
 >#process
 ^edlc8pmmpst
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-08T13:48:01.951Z","updated":"2023-08-08T13:48:01.951Z","document":{"title":"10639_2015_9413_Article 675..695","link":[{"href":"urn:x-pdf:5e9367c06fb0971dfb8e3cd9f83e0a30"},{"href":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf"}],"documentFingerprint":"5e9367c06fb0971dfb8e3cd9f83e0a30"},"uri":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf","target":[{"source":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf","selector":[{"type":"TextPositionSelector","start":4125,"end":4577},{"type":"TextQuoteSelector","exact":"Even with the increased possibilities that IT provideswe have not yet found a way to say confidently that the multiple purposes for whichsome assessments have been used (Mansell et al. 2009) can or should be supportedthrough the same assessment systems. This is because the impacts of some purposesinteract with the validation processes of others (Messick 1994). Note that validationapplies to the assessment-in-use not to a particular assessment task.","prefix":"fferent purposes of assessment. ","suffix":" Therefore inconsidering assessm"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Even with the increased possibilities that IT provideswe have not yet found a way to say confidently that the multiple purposes for whichsome assessments have been used (Mansell et al. 2009) can or should be supportedthrough the same assessment systems. This is because the impacts of some purposesinteract with the validation processes of others (Messick 1994). Note that validationapplies to the assessment-in-use not to a particular assessment task.== *
+>%%LINK%%[[#^gezdg0njl3|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gezdg0njl3
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-08T13:48:17.786Z","updated":"2023-08-08T13:48:17.786Z","document":{"title":"10639_2015_9413_Article 675..695","link":[{"href":"urn:x-pdf:5e9367c06fb0971dfb8e3cd9f83e0a30"},{"href":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf"}],"documentFingerprint":"5e9367c06fb0971dfb8e3cd9f83e0a30"},"uri":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf","target":[{"source":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf","selector":[{"type":"TextPositionSelector","start":5395,"end":5562},{"type":"TextQuoteSelector","exact":"In this review, we assert that integration can occur to meet the multiple purposes,because the affordances of technology can redefine the nature of an assessment task.","prefix":"e of validity of the assessment.","suffix":"676 Educ Inf Technol (2015) 20:6"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==In this review, we assert that integration can occur to meet the multiple purposes,because the affordances of technology can redefine the nature of an assessment task.== *
+>%%LINK%%[[#^brpxdj2vjp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^brpxdj2vjp
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-08T13:50:29.046Z","updated":"2023-08-08T13:50:29.046Z","document":{"title":"10639_2015_9413_Article 675..695","link":[{"href":"urn:x-pdf:5e9367c06fb0971dfb8e3cd9f83e0a30"},{"href":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf"}],"documentFingerprint":"5e9367c06fb0971dfb8e3cd9f83e0a30"},"uri":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf","target":[{"source":"vault:/_papers/BBFI5EI6/webbTechnologyEnhancedAssessment2015.pdf","selector":[{"type":"TextPositionSelector","start":8615,"end":9010},{"type":"TextQuoteSelector","exact":"We will argue that a technology-enabled collaborative learning environment can be arich context for assessing higher order skills, as long as the purpose and design of theassessment is clear about its targets and the assessment tasks are constructed to includetechnology as part of the collaborative problem solving task and the assessmentprovides timely useful feedback to teachers and students","prefix":" tasks, and presentation issues.","suffix":".Educ Inf Technol (2015) 20:675–"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==We will argue that a technology-enabled collaborative learning environment can be arich context for assessing higher order skills, as long as the purpose and design of theassessment is clear about its targets and the assessment tasks are constructed to includetechnology as part of the collaborative problem solving task and the assessmentprovides timely useful feedback to teachers and students== *
+>%%LINK%%[[#^ug4xnk0r3c9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ug4xnk0r3c9

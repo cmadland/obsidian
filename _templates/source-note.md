@@ -5,6 +5,7 @@ Rating: 0/5
 Title: "{{title}}"
 ShortSummary: "{{SUMMARY}}"
 annotation-target: {{citekey}}.pdf
+tags: {{keywords}}
 ---
 {{TAGS}}
 

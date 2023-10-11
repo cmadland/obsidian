@@ -14,7 +14,7 @@ annotation-target: bearmanSupportAssessmentPractice2016.pdf
 
 
 > [!tldr] Summary
-> A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 
+> Good framework for understanding assessment decision-making and the factors to be considered. The framework does not consider the role of technology.
 
 > [!cite] Bibliography
 >Bearman, M., Dawson, P., Boud, D., Bennett, S., Hall, M., & Molloy, E. (2016). Support for assessment practice: Developing the Assessment Design Decisions Framework. _Teaching in Higher Education_, _21_(5), 545–556. [https://doi.org/10/gjsn3g](https://doi.org/10/gjsn3g)
@@ -35,6 +35,7 @@ annotation-target: bearmanSupportAssessmentPractice2016.pdf
 
 [[offerdahlChangesInstructorsAssessment2011]]
 [[nicolFormativeAssessmentSelf2006]]
+[[bearmanDesigningAssessmentDigital2022]]
 
 #### Annotations
 
@@ -244,3 +245,59 @@ Like Price et al. (2011), we hold the premise that, while assessment strategies 
 >%%TAGS%%
 >
 ^8e01oebzque
+
+
+>%%
+>```annotation-json
+>{"created":"2023-10-11T13:03:24.992Z","updated":"2023-10-11T13:03:24.992Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":16414,"end":16807},{"type":"TextQuoteSelector","exact":" Particularly, the data indicated that the foundation of an assessment taskwas most frequently drawn from a previous task. This included assessments experiencedby the educator as a student or implemented at another institution. Most commonly,assessment activities were revised versions of the unit’s previous assessment, sometimeswith the expectation of further ‘tweaking’in the next iteration","prefix":"nature of assessmentdevelopment.","suffix":":...we didn’t like the marking r"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Particularly, the data indicated that the foundation of an assessment taskwas most frequently drawn from a previous task. This included assessments experiencedby the educator as a student or implemented at another institution. Most commonly,assessment activities were revised versions of the unit’s previous assessment, sometimeswith the expectation of further ‘tweaking’in the next iteration== *
+>%%LINK%%[[#^f0cz109a20n|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^f0cz109a20n
+
+
+>%%
+>```annotation-json
+>{"created":"2023-10-11T13:03:51.098Z","updated":"2023-10-11T13:03:51.098Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":17201,"end":17469},{"type":"TextQuoteSelector","exact":"We also realised that when educators were designing or revising assessments, they did notappear to follow a systematic decision-making process. Interviewees repeatedly describedan inspiration followed by an almost complete solution, which then required some tweak-ing.","prefix":"uch better. (Education lecturer)","suffix":" This did not appear to be a ser"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==We also realised that when educators were designing or revising assessments, they did notappear to follow a systematic decision-making process. Interviewees repeatedly describedan inspiration followed by an almost complete solution, which then required some tweak-ing.== *
+>%%LINK%%[[#^7170ids4pa7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7170ids4pa7
+
+
+>%%
+>```annotation-json
+>{"created":"2023-10-11T13:06:01.980Z","updated":"2023-10-11T13:06:01.980Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":19220,"end":19632},{"type":"TextQuoteSelector","exact":"This second set of data highlighted the distributed nature of assessment design.The person responsible for designing the assessment prior to semester was rarely theperson who developed the original paperwork for the unit to be approved. Design wasconducted by many individuals, usually with the unit coordinator having primary respon-sibility, sometimes simultaneously in teams, sometimes sequentially over years","prefix":"g involved in assessmentdesign. ","suffix":":When I first took this unit ove"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==This second set of data highlighted the distributed nature of assessment design.The person responsible for designing the assessment prior to semester was rarely theperson who developed the original paperwork for the unit to be approved. Design wasconducted by many individuals, usually with the unit coordinator having primary respon-sibility, sometimes simultaneously in teams, sometimes sequentially over years== *
+>%%LINK%%[[#^dfezfgcra1b|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^dfezfgcra1b
+
+
+>%%
+>```annotation-json
+>{"created":"2023-10-11T13:07:01.586Z","updated":"2023-10-11T13:07:01.586Z","document":{"title":"Support for assessment practice: developing the Assessment Design Decisions Framework","link":[{"href":"urn:x-pdf:f2a5bcbded82acf03c71109d29a8e9f0"},{"href":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf"}],"documentFingerprint":"f2a5bcbded82acf03c71109d29a8e9f0"},"uri":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","target":[{"source":"vault:/_papers/Y8UTZMPW/bearmanSupportAssessmentPractice2016.pdf","selector":[{"type":"TextPositionSelector","start":20944,"end":21217},{"type":"TextQuoteSelector","exact":"As has been noted elsewhere, the influence of the unit’s disciplinary traditions (such asan established custom of essays or exams) on the assessment design was pervasive (Meyeret al. 2010). What was most striking was that the educators themselves were often unawareof this.","prefix":" control over assessment design.","suffix":" For example, in the following q"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==As has been noted elsewhere, the influence of the unit’s disciplinary traditions (such asan established custom of essays or exams) on the assessment design was pervasive (Meyeret al. 2010). What was most striking was that the educators themselves were often unawareof this.== *
+>%%LINK%%[[#^23awy827srp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^23awy827srp

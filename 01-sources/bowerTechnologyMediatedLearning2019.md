@@ -14,7 +14,7 @@ annotation-target: bowerTechnologyMediatedLearning2019.pdf
 
 
 > [!tldr] Summary
-> A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 
+> Bower presents a synthesized model of how technology mediates learning by integrating various theoretical perspectives. 
 
 > [!cite] Bibliography
 >Bower, M. (2019). Technology‐mediated learning theory. _British Journal of Educational Technology_, _50_(3), 1035–1048. [https://doi.org/10.1111/bjet.12771](https://doi.org/10.1111/bjet.12771)
@@ -318,3 +318,171 @@ Finally, and more broadly, the field of technology-enhanced learning has been pr
 >%%TAGS%%
 >
 ^7w1672j5g3e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:05:16.875Z","updated":"2023-08-07T22:05:16.875Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":16298,"end":16492},{"type":"TextQuoteSelector","exact":"Premise 3: In technology-mediated learning settings, the role of teachers is to help optimise student learning outcomes and experiences through the purposeful deployment of learning technologies","prefix":"of  the  Learning  Design field.","suffix":"The  Learning  Design  field  ai"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Premise 3: In technology-mediated learning settings, the role of teachers is to help optimise student learning outcomes and experiences through the purposeful deployment of learning technologies== *
+>%%LINK%%[[#^00iiqc0zvh2p|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^00iiqc0zvh2p
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:05:28.730Z","updated":"2023-08-07T22:05:28.730Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":18155,"end":18332},{"type":"TextQuoteSelector","exact":"Premise 4: The affordances of technologies, including their recognition and use, influences the sorts of representation, interaction, production and learning that can take place","prefix":"e,  Dimitriadis, & Hoppe, 2013).","suffix":"If technologies mediate learning"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Premise 4: The affordances of technologies, including their recognition and use, influences the sorts of representation, interaction, production and learning that can take place== *
+>%%LINK%%[[#^prtj1g64zqd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^prtj1g64zqd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:05:47.203Z","updated":"2023-08-07T22:05:47.203Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":21468,"end":21616},{"type":"TextQuoteSelector","exact":"Premise 5: The way in which modalities are used and combined influences the way in which meaning is processed, interpreted, created and interrelated","prefix":"ng technology-mediated learning.","suffix":"When  learning  is  being  media"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Premise 5: The way in which modalities are used and combined influences the way in which meaning is processed, interpreted, created and interrelated== *
+>%%LINK%%[[#^qduimnlx76|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qduimnlx76
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:05:58.912Z","updated":"2023-08-07T22:05:58.912Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":23465,"end":23635},{"type":"TextQuoteSelector","exact":"Premise 6: The way in which technology is used to mediate interaction patterns and possibilities between networks of participants influences the learning that takes place","prefix":"ated learning theory        1041","suffix":"One of the principle ways that t"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Premise 6: The way in which technology is used to mediate interaction patterns and possibilities between networks of participants influences the learning that takes place== *
+>%%LINK%%[[#^bdor4gqzfe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bdor4gqzfe
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:06:10.071Z","updated":"2023-08-07T22:06:10.071Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":25099,"end":25236},{"type":"TextQuoteSelector","exact":"Premise 7: Arrangements of technologies and the way they are used can influence the sense of pres-ence and community that are experienced","prefix":" tech-nologies that can be used.","suffix":"When learning is being mediated "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Premise 7: Arrangements of technologies and the way they are used can influence the sense of pres-ence and community that are experienced== *
+>%%LINK%%[[#^1z7svmtquii|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1z7svmtquii
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:13:18.519Z","text":"This aligns with #clark ","updated":"2023-08-07T22:13:18.519Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":27773,"end":27975},{"type":"TextQuoteSelector","exact":"The  educator  and  learner  background  knowledge  and  be-liefs determine what is communicated—according to technology-mediated learning theory the technology  has  no  ultimate  intentional  agency. ","prefix":"  participants  also  occurs).  ","suffix":" The  contributions  of  student"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==The  educator  and  learner  background  knowledge  and  be-liefs determine what is communicated—according to technology-mediated learning theory the technology  has  no  ultimate  intentional  agency.== *
+>%%LINK%%[[#^oexxqmyb5k|show annotation]]
+>%%COMMENT%%
+>This aligns with #clark 
+>%%TAGS%%
+>#clark-v-kozma
+^oexxqmyb5k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:19:03.410Z","updated":"2023-08-07T22:19:03.410Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":39869,"end":40081},{"type":"TextQuoteSelector","exact":"This paper responds by providing an integrated and holistic theoretical referent with clear assumptions that is specifically designed to help analyse and understand situations where technology mediates learning. ","prefix":"ennett & Oliver, 2011, p. 186). ","suffix":"Of course, while the various com"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==This paper responds by providing an integrated and holistic theoretical referent with clear assumptions that is specifically designed to help analyse and understand situations where technology mediates learning.== *
+>%%LINK%%[[#^k2ha7gj2gdm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^k2ha7gj2gdm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:19:31.784Z","updated":"2023-08-07T22:19:31.784Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":40082,"end":40695},{"type":"TextQuoteSelector","exact":"f course, while the various components of technology-mediated learning theory presented here have been sep-arately theorised and often empirically derived, combining them into an integrated conceptual-isation, has not. The holistic theorisation of how technology mediates learning may encourage researchers and educators to adopt a more comprehensive and integrated view in their endeav-ours, and indeed to pressure-test the assumptions that have been proposed herein. In doing so, it encourages critical approaches to educational technology usage and research, which is ulti-mately seen as healthy for the field.","prefix":" technology mediates learning. O","suffix":"Framing the use of  technology w"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==f course, while the various components of technology-mediated learning theory presented here have been sep-arately theorised and often empirically derived, combining them into an integrated conceptual-isation, has not. The holistic theorisation of how technology mediates learning may encourage researchers and educators to adopt a more comprehensive and integrated view in their endeav-ours, and indeed to pressure-test the assumptions that have been proposed herein. In doing so, it encourages critical approaches to educational technology usage and research, which is ulti-mately seen as healthy for the field.== *
+>%%LINK%%[[#^ii8ai3jz6u|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ii8ai3jz6u
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T22:19:58.505Z","updated":"2023-08-07T22:19:58.505Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":40695,"end":41122},{"type":"TextQuoteSelector","exact":"Framing the use of  technology within its sociopolitical context and noting the heterogeneity of individual  beliefs  and  practices,  also  deliberately  aims  to  encourage  critical  rather  than  deter-ministic approaches to educational research. It leaves entirely open the possibility that the use of technology may influence some learners in one way, other learners quite differently, and yet other learners not at all. ","prefix":"y seen as healthy for the field.","suffix":"The important point in critical "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Framing the use of  technology within its sociopolitical context and noting the heterogeneity of individual  beliefs  and  practices,  also  deliberately  aims  to  encourage  critical  rather  than  deter-ministic approaches to educational research. It leaves entirely open the possibility that the use of technology may influence some learners in one way, other learners quite differently, and yet other learners not at all.== *
+>%%LINK%%[[#^hm0uuw6i8zd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^hm0uuw6i8zd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-14T13:59:00.739Z","text":"#affordances","updated":"2023-08-14T13:59:00.739Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":18501,"end":18921},{"type":"TextQuoteSelector","exact":"Gibson  (1979)  defined  the  affor-dances of an object as “what it offers the animal, what it provides or furnishes” (p. 127, italics by Gibson). Norman (1998) later extended the concept from pure utility to also incorporate usabil-ity, by defining affordances as “the perceived and actual properties of the thing, primarily those fundamental properties that determine just how the thing could possibly be used” (p. 9).","prefix":"rning  that  can  take  place.  ","suffix":" There have been many different "}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Gibson  (1979)  defined  the  affor-dances of an object as “what it offers the animal, what it provides or furnishes” (p. 127, italics by Gibson). Norman (1998) later extended the concept from pure utility to also incorporate usabil-ity, by defining affordances as “the perceived and actual properties of the thing, primarily those fundamental properties that determine just how the thing could possibly be used” (p. 9).== *
+>%%LINK%%[[#^rv5btg5hn9i|show annotation]]
+>%%COMMENT%%
+>#affordances
+>%%TAGS%%
+>
+^rv5btg5hn9i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-14T14:06:04.518Z","text":"#synchronicity","updated":"2023-08-14T14:06:04.518Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":19972,"end":20334},{"type":"TextQuoteSelector","exact":"Synchronicity is another important aspect of learning  technologies,  with  asynchronous  technologies  such  as  wikis  and  discussion  forums  offering  more  opportunities  for  ref lective  contribution  compared  to  synchronous  technolo-gies  such  web  conferencing  or  virtual  world  environments  that  enable  real-time  rich  media  interactivity.","prefix":"nts are mediated (Bower, 2008). ","suffix":"Given  people  have  agentic  in"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==Synchronicity is another important aspect of learning  technologies,  with  asynchronous  technologies  such  as  wikis  and  discussion  forums  offering  more  opportunities  for  ref lective  contribution  compared  to  synchronous  technolo-gies  such  web  conferencing  or  virtual  world  environments  that  enable  real-time  rich  media  interactivity.== *
+>%%LINK%%[[#^amicp47kevd|show annotation]]
+>%%COMMENT%%
+>#synchronicity
+>%%TAGS%%
+>
+^amicp47kevd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-14T14:06:45.810Z","text":"#affordances #criticism","updated":"2023-08-14T14:06:45.810Z","document":{"title":"Technology‐mediated learning theory","link":[{"href":"urn:x-pdf:1173f7bee5e68775da310791488483b3"},{"href":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf"}],"documentFingerprint":"1173f7bee5e68775da310791488483b3"},"uri":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","target":[{"source":"vault:/_papers/UI3PMPQH/bowerTechnologyMediatedLearning2019.pdf","selector":[{"type":"TextPositionSelector","start":21029,"end":21467},{"type":"TextQuoteSelector","exact":"While the concept of  affordances has been criticised for being ambiguous and perpetuating tech-nologically deterministic views of  education (for instance, Oliver, 2013), the capabilities of  tech-nologies  and  their  recognition  by  users  can  influence  how  they  are  utilised  and  consequently  the learning that takes place (Conole & Jones, 2010), and are thus important to consider when theorising technology-mediated learning","prefix":"ies will be utilised” (p. 176). ","suffix":".Premise 5: The way in which mod"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%% ==While the concept of  affordances has been criticised for being ambiguous and perpetuating tech-nologically deterministic views of  education (for instance, Oliver, 2013), the capabilities of  tech-nologies  and  their  recognition  by  users  can  influence  how  they  are  utilised  and  consequently  the learning that takes place (Conole & Jones, 2010), and are thus important to consider when theorising technology-mediated learning== *
+>%%LINK%%[[#^fs4g830f6a|show annotation]]
+>%%COMMENT%%
+>#affordances #criticism
+>%%TAGS%%
+>
+^fs4g830f6a
