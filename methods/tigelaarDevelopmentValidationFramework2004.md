@@ -14,5 +14,5 @@ Date created: 2023-03-20
 >%%COMMENT%%
 >
 >%%TAGS%%
->#delphi, #teaching, #framework, #validation, #method
+>#delphi, #teaching, #framework, #validation, #methods 
 ^xjw4zt7ylq

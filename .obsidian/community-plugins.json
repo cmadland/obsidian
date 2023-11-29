@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "open-vscode",
-  "obsidian-annotator",
   "obsidian-kanban",
   "dataview",
   "obsidian-zotero-desktop-connector",
-  "obsidian42-strange-new-worlds"
+  "obsidian42-strange-new-worlds",
+  "obsidian-annotator"
 ]

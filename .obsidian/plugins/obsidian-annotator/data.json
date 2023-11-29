@@ -14,7 +14,7 @@
   "annotationMarkdownSettings": {
     "annotationModeByDefault": false,
     "includePrefix": false,
-    "highlightHighlightedText": true,
+    "highlightHighlightedText": false,
     "includePostfix": false
   }
 }

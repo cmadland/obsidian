@@ -4,70 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8108d25dd799211f",
+        "id": "d770ed235a27042b",
         "type": "tabs",
         "children": [
           {
-            "id": "76d9d82e0d22a6f7",
+            "id": "0ad0f2625d70ab0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "methods/linReviewUsingPartial2020.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f10b8055a98dfe84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-sources/barnettWillLearnBeing2007.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1a506f982fcc4654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-todo/bearmanSupportAssessmentPractice2016.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab9a0808bc48de65",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "methods/ibarra-saizQualityAssessmentTasks2020.md"
-              }
-            }
-          },
-          {
-            "id": "1407ffac4a273a14",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "delucaApproachesClassroomAssessment2016.md"
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": -1561.4233648681638,
+                  "y": 598.9121008300783,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "049ec37ba5d3ba10",
@@ -142,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-todo/bearmanSupportAssessmentPractice2016.md",
+                "file": "🧭 Reference Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-todo/bearmanSupportAssessmentPractice2016.md",
+                "file": "🧭 Reference Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-todo/bearmanSupportAssessmentPractice2016.md"
+                "file": "🧭 Reference Map.canvas"
               }
             }
           },
@@ -224,53 +178,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a506f982fcc4654",
+  "active": "0ad0f2625d70ab0d",
   "lastOpenFiles": [
-    "01-sources/barnettWillLearnBeing2007.md",
-    "_papers/VTR6ZNBA/bondMetaSystematicReview2023.pdf",
-    "_papers/VTR6ZNBA/Bond et al. - 2023 - A Meta Systematic Review of Artificial Intelligenc.pdf",
-    "_papers/VTR6ZNBA",
-    "01-sources/bairdAssessmentLearningFields2017.md",
+    "assets/tiaf-q.png",
+    "assets/fig11-tiaf-q-full.drawio.png",
+    "assets/tiaf-q-full.drawio.png",
+    "assets/tiaf-venn.drawio.png",
+    "🧭 Reference Map.canvas",
+    "🧭 Dissertation Map.canvas",
+    "coltmanFormativeReflectiveMeasurement2008.md",
+    "_papers/ZKV2Z797/ace_award_0.jpg",
+    "_papers/ZKV2Z797/throbber.gif",
+    "_papers/ZKV2Z797/company-logo-1.png",
+    "_papers/ZKV2Z797/remove.png",
+    "_papers/ZKV2Z797/company-logo-2.png",
+    "_papers/ZKV2Z797/menu-collapsed.png",
+    "_papers/ZKV2Z797/88x31.png",
+    "_papers/ZKV2Z797/noozoodesign_favicon.ico",
+    "_papers/ZKV2Z797/omega.js",
+    "_papers/ZKV2Z797/googleanalytics.js",
+    "_papers/ZKV2Z797/ga.js",
+    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.html",
+    "_papers/ZKV2Z797/fivestar.js",
+    "_papers/ZKV2Z797/rate.js",
+    "_papers/ZKV2Z797/jquery.js",
+    "_papers/ZKV2Z797/tableheader.js",
+    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.css",
+    "methods/coltmanFormativeReflectiveMeasurement2008.md",
+    "methods/linReviewUsingPartial2020.md",
+    "00-todo/bearmanSupportAssessmentPractice2016.md",
+    "methods/hairPartialLeastSquares2021.md",
     "_templates/source-note.md",
-    "_papers/D357MB9I/2022abca228.html",
-    "_papers/D357MB9I",
-    "_papers/tmp-0r68om/2022abca228.html",
-    "_papers/tmp-0r68om",
-    "_papers/RNB5TD6J/AlexanderUniversityLethbridge2022.pdf",
-    "_papers/RNB5TD6J/2022 - Alexander v University of Lethbridge.pdf",
-    "_papers/RNB5TD6J",
+    "hair.md",
+    "methods/tigelaarDevelopmentValidationFramework2004.md",
+    "01-sources/molloyDevelopingLearningcentredFramework2020.md",
+    "methods/mertlerMeasuringTeachersKnowledge2005.md",
+    "fawns23OnlyWay2023.md",
+    "methods/ghasemyThisFastCar2020.md",
+    "methods/hairPartialLeastSquares2022.md",
+    "01-sources/sweeneyWhereTransformationUnlocking2017.md",
+    "sweeneyWhereTransformationUnlocking2017.md",
+    "01-sources/barnettWillLearnBeing2007.md",
+    "01-sources/bairdAssessmentLearningFields2017.md",
     "_templates copy/article.md",
     "_templates copy/source-note.md",
     "methods/serenkoStudentSatisfactionCanadian2011.md",
     "methods/acosta-gonzagaRoleAttitudinalFactors2018.md",
     "methods/aparicioCulturalImpactsElearning2016.md",
     "methods/ibarra-saizQualityAssessmentTasks2020.md",
-    "assets/tiaf-venn.drawio.png",
-    "assets/tiaf-q.png",
-    "🧭 Reference Map.canvas",
-    "assets/tiaf-q-full.drawio.png",
-    "🧭 Dissertation Map.canvas",
-    "methods/linReviewUsingPartial2020.md",
     "delucaApproachesClassroomAssessment2016.md",
     "methods/thakkarStructuralEquationModelling2020.md",
-    "methods/hairWhenUseHow2019.md",
-    "methods/hairPartialLeastSquares2021.md",
-    "methods/hairPartialLeastSquares2022.md",
-    "methods/hairPLSSEMIndeedSilver2011.md",
-    "thakkarIntroductionStructuralEquation2020.pdf.md",
-    "methods/ghasemyThisFastCar2020.md",
-    "methods/thakkarIntroductionStructuralEquation2020.md",
-    "webbChallengesInformationTechnology2013.md",
-    "taiPromotingEquitySocial2022.md",
-    "00-todo/bennettGoodSideCOVID192022.md",
-    "_templates/article.md",
-    "taiAssessmentInclusionRethinking2022.md",
-    "01-sources/bowerTechnologyMediatedLearning2019.md",
-    "ivankovaStudentsPersistenceDistributed2007.md",
-    "1️⃣ sources/technology/🧭 Reference Map.canvas",
-    "_papers/ZKV2Z797/menu-collapsed.png",
-    "_papers/ZKV2Z797/feed.png",
-    "_papers/ZKV2Z797/grippie.png",
-    "_papers/ZKV2Z797/status-active.gif"
+    "1️⃣ sources/technology/🧭 Reference Map.canvas"
   ]
 }

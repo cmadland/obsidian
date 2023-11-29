@@ -12,7 +12,7 @@ annotation-target: molloyDevelopingLearningcentredFramework2020.pdf
 *Elizabeth Molloy, David Boud, Michael Henderson*
 
 #### Tags
-#feedback #framework #method #framework-development
+#feedback #framework #methods  #framework-development
 
 > [!tldr] Summary
 > A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 

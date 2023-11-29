@@ -9,7 +9,7 @@ annotation-target: mertlerMeasuringTeachersKnowledge2005.pdf
 
 #### [Measuring Teachers' Knowledge & Application of Classroom Assessment Concepts: Development of the "Assessment Literacy Inventory"](mertlerMeasuringTeachersKnowledge2005.pdf)
 
-#method 
+#methods  
 
 
 
