@@ -15,14 +15,84 @@
               "state": {
                 "file": "🧭 Reference Map.canvas",
                 "viewState": {
-                  "x": -1561.4233648681638,
-                  "y": 598.9121008300783,
-                  "zoom": 0
+                  "x": -3627.700000000001,
+                  "y": 673.3599999999979,
+                  "zoom": -1
                 }
               }
             }
+          },
+          {
+            "id": "325b83685de99988",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": -1583.8194099336888,
+                  "y": 742.0526330519199,
+                  "zoom": -1
+                }
+              }
+            }
+          },
+          {
+            "id": "7e78506820ab75b3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": -3538.7082770311576,
+                  "y": 1090.7295700980978,
+                  "zoom": -1
+                }
+              }
+            }
+          },
+          {
+            "id": "bf922fd665f652c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-todo/tessaroFiveIndigenizingOnline2018.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe27a6503210426a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-todo/frenchReviewBenefitsDrawbacks2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83ae37e46e1df7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-todo/chanSystematicReviewHandwritten2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,13 +248,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ad0f2625d70ab0d",
+  "active": "7e78506820ab75b3",
   "lastOpenFiles": [
+    "00-todo/tessaroFiveIndigenizingOnline2018.md",
+    "🧭 Reference Map.canvas",
+    "00-todo/chanStudentPartnershipAssessment2023.md",
+    "00-todo/frenchReviewBenefitsDrawbacks2023.md",
+    "00-todo/chanSystematicReviewHandwritten2023.md",
+    "00-todo/buckleyAreWeAnswering2023.md",
     "assets/tiaf-q.png",
     "assets/fig11-tiaf-q-full.drawio.png",
     "assets/tiaf-q-full.drawio.png",
     "assets/tiaf-venn.drawio.png",
-    "🧭 Reference Map.canvas",
     "🧭 Dissertation Map.canvas",
     "coltmanFormativeReflectiveMeasurement2008.md",
     "_papers/ZKV2Z797/ace_award_0.jpg",
@@ -193,7 +268,6 @@
     "_papers/ZKV2Z797/remove.png",
     "_papers/ZKV2Z797/company-logo-2.png",
     "_papers/ZKV2Z797/menu-collapsed.png",
-    "_papers/ZKV2Z797/88x31.png",
     "_papers/ZKV2Z797/noozoodesign_favicon.ico",
     "_papers/ZKV2Z797/omega.js",
     "_papers/ZKV2Z797/googleanalytics.js",
@@ -223,11 +297,6 @@
     "_templates copy/article.md",
     "_templates copy/source-note.md",
     "methods/serenkoStudentSatisfactionCanadian2011.md",
-    "methods/acosta-gonzagaRoleAttitudinalFactors2018.md",
-    "methods/aparicioCulturalImpactsElearning2016.md",
-    "methods/ibarra-saizQualityAssessmentTasks2020.md",
-    "delucaApproachesClassroomAssessment2016.md",
-    "methods/thakkarStructuralEquationModelling2020.md",
     "1️⃣ sources/technology/🧭 Reference Map.canvas"
   ]
 }
