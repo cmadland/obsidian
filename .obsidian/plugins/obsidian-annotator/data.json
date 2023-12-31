@@ -2,10 +2,10 @@
   "deafultDarkMode": false,
   "darkReaderSettings": {
     "brightness": 150,
-    "contrast": 131,
+    "contrast": 85,
     "sepia": 0
   },
-  "debugLogging": false,
+  "debugLogging": true,
   "customDefaultPath": "",
   "epubSettings": {
     "readingMode": "pagination",
@@ -13,8 +13,8 @@
   },
   "annotationMarkdownSettings": {
     "annotationModeByDefault": false,
-    "includePrefix": false,
+    "includePrefix": true,
     "highlightHighlightedText": false,
-    "includePostfix": false
+    "includePostfix": true
   }
 }

@@ -5,6 +5,8 @@ Rating: 0/5
 Title: "Designing assessment in a digital world: an organising framework"
 ShortSummary: ""
 annotation-target: bearmanDesigningAssessmentDigital2022.pdf
+tags:
+  - "#the-digital"
 ---
 
 #complexity 

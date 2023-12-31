@@ -4,95 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d770ed235a27042b",
+        "id": "77563a7fead1617c",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad0f2625d70ab0d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "🧭 Reference Map.canvas",
-                "viewState": {
-                  "x": -3627.700000000001,
-                  "y": 673.3599999999979,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "325b83685de99988",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "🧭 Reference Map.canvas",
-                "viewState": {
-                  "x": -1583.8194099336888,
-                  "y": 742.0526330519199,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "7e78506820ab75b3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "🧭 Reference Map.canvas",
-                "viewState": {
-                  "x": -3538.7082770311576,
-                  "y": 1090.7295700980978,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "bf922fd665f652c9",
+            "id": "aab5a854027bc28b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-todo/tessaroFiveIndigenizingOnline2018.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe27a6503210426a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-todo/frenchReviewBenefitsDrawbacks2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83ae37e46e1df7c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-todo/chanSystematicReviewHandwritten2023.md",
+                "file": "00-todo/selwynEducationTechnologyKey2022.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "assessment-reform",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -166,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧭 Reference Map.canvas",
+                "file": "00-todo/selwynEducationTechnologyKey2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧭 Reference Map.canvas",
+                "file": "00-todo/selwynEducationTechnologyKey2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧭 Reference Map.canvas"
+                "file": "00-todo/selwynEducationTechnologyKey2022.md"
               }
             }
           },
@@ -224,7 +152,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -248,13 +178,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e78506820ab75b3",
+  "active": "9d00b08086a56e94",
   "lastOpenFiles": [
-    "00-todo/tessaroFiveIndigenizingOnline2018.md",
-    "🧭 Reference Map.canvas",
-    "00-todo/chanStudentPartnershipAssessment2023.md",
     "00-todo/frenchReviewBenefitsDrawbacks2023.md",
+    "00-todo/selwynEducationTechnologyKey2022.md",
+    "🧭 Reference Map.canvas",
+    "00-todo/tessaroFiveIndigenizingOnline2018.md",
+    "00-todo/rawlusykAssessmentHigherEducation2018.md",
     "00-todo/chanSystematicReviewHandwritten2023.md",
+    "00-todo/shepardShouldMeasurementHave2019.md",
+    "01-sources/bearmanDesigningAssessmentDigital2022.md",
+    "_papers/DQCLUDQI/selwynEducationTechnologyKey2022.pdf",
+    "_papers/DQCLUDQI/selwyn.pdf",
+    "_papers/DQCLUDQI",
+    "_papers/4QQLHHCC/NeilSelwyn_2022_Chapter2MakingSenseOf_EducationAndTechnolog.pdf",
+    "_papers/4QQLHHCC",
+    "_papers/3W8B9DE5/machadoCOVID19ImpactAssessment2023.pdf",
+    "_papers/3W8B9DE5",
+    "_papers/E2YA4LL4/shepardShouldMeasurementHave2019.pdf",
+    "_papers/E2YA4LL4/Shepard - 2019 - Should “Measurement” Have a Role in Teacher Learni.pdf",
+    "_papers/tmp-gr0uTn",
+    "01-sources/fischerHowDoesAssessment2023.md",
+    "methods/ghasemyThisFastCar2020.md",
+    "methods/hairPartialLeastSquares2021.md",
+    "00-todo/chanStudentPartnershipAssessment2023.md",
     "00-todo/buckleyAreWeAnswering2023.md",
     "assets/tiaf-q.png",
     "assets/fig11-tiaf-q-full.drawio.png",
@@ -268,35 +215,18 @@
     "_papers/ZKV2Z797/remove.png",
     "_papers/ZKV2Z797/company-logo-2.png",
     "_papers/ZKV2Z797/menu-collapsed.png",
-    "_papers/ZKV2Z797/noozoodesign_favicon.ico",
-    "_papers/ZKV2Z797/omega.js",
-    "_papers/ZKV2Z797/googleanalytics.js",
-    "_papers/ZKV2Z797/ga.js",
-    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.html",
-    "_papers/ZKV2Z797/fivestar.js",
-    "_papers/ZKV2Z797/rate.js",
-    "_papers/ZKV2Z797/jquery.js",
-    "_papers/ZKV2Z797/tableheader.js",
-    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.css",
     "methods/coltmanFormativeReflectiveMeasurement2008.md",
     "methods/linReviewUsingPartial2020.md",
     "00-todo/bearmanSupportAssessmentPractice2016.md",
-    "methods/hairPartialLeastSquares2021.md",
     "_templates/source-note.md",
     "hair.md",
     "methods/tigelaarDevelopmentValidationFramework2004.md",
     "01-sources/molloyDevelopingLearningcentredFramework2020.md",
     "methods/mertlerMeasuringTeachersKnowledge2005.md",
     "fawns23OnlyWay2023.md",
-    "methods/ghasemyThisFastCar2020.md",
     "methods/hairPartialLeastSquares2022.md",
     "01-sources/sweeneyWhereTransformationUnlocking2017.md",
     "sweeneyWhereTransformationUnlocking2017.md",
-    "01-sources/barnettWillLearnBeing2007.md",
-    "01-sources/bairdAssessmentLearningFields2017.md",
-    "_templates copy/article.md",
-    "_templates copy/source-note.md",
-    "methods/serenkoStudentSatisfactionCanadian2011.md",
     "1️⃣ sources/technology/🧭 Reference Map.canvas"
   ]
 }

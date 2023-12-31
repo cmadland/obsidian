@@ -537,3 +537,30 @@ tags:
 
 #### Related
 [[hairPartialLeastSquares2022]][[hairPLSSEMIndeedSilver2011]][[hairWhenUseHow2019]][[sarstedtPLSSEMIndeedSilver2023]][[thakkarIntroductionStructuralEquation2020]][[thakkarStructuralEquationModelling2020]][[ghasemyThisFastCar2020]]
+
+>%%
+>```annotation-json
+>{"created":"2023-12-06T15:38:21.682Z","updated":"2023-12-06T15:38:21.682Z","document":{"title":"Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R","link":[{"href":"urn:x-pdf:eda7cef93143df804c1a71d4b595e5f1"},{"href":"vault:/_papers/9BRAB9UL/hairPartialLeastSquares2021.pdf"}],"documentFingerprint":"eda7cef93143df804c1a71d4b595e5f1"},"uri":"vault:/_papers/9BRAB9UL/hairPartialLeastSquares2021.pdf","target":[{"source":"vault:/_papers/9BRAB9UL/hairPartialLeastSquares2021.pdf","selector":[{"type":"TextPositionSelector","start":62143,"end":62388},{"type":"TextQuoteSelector","exact":"There are, however, several limitations of  PLS-SEM. In its basic form, the tech-nique  cannot  be  applied  when  structural  models  contain  causal  loops  or  circular  relationships between the latent variables (i.e., non-recursive models).","prefix":" 7 http://www. tandfonline. com)","suffix":" Early exten-sions of  the basic"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%There are, however, several limitations of  PLS-SEM. In its basic form, the tech-nique  cannot  be  applied  when  structural  models  contain  causal  loops  or  circular  relationships between the latent variables (i.e., non-recursive models).*
+>%%LINK%%[[#^79suu0mvqgx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^79suu0mvqgx
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-06T15:38:51.204Z","updated":"2023-12-06T15:38:51.204Z","document":{"title":"Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R","link":[{"href":"urn:x-pdf:eda7cef93143df804c1a71d4b595e5f1"},{"href":"vault:/_papers/9BRAB9UL/hairPartialLeastSquares2021.pdf"}],"documentFingerprint":"eda7cef93143df804c1a71d4b595e5f1"},"uri":"vault:/_papers/9BRAB9UL/hairPartialLeastSquares2021.pdf","target":[{"source":"vault:/_papers/9BRAB9UL/hairPartialLeastSquares2021.pdf","selector":[{"type":"TextPositionSelector","start":62602,"end":62780},{"type":"TextQuoteSelector","exact":"Furthermore,  since  PLS-SEM  does  not  have  an  established global goodness-of-fit measure, its use for theory testing and confirma-tion is more limited in certain situations.","prefix":"tionships  (Lohmöller,  1989).  ","suffix":" Recent research has attempted t"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%Furthermore,  since  PLS-SEM  does  not  have  an  established global goodness-of-fit measure, its use for theory testing and confirma-tion is more limited in certain situations.*
+>%%LINK%%[[#^bldj0yu3ytw|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bldj0yu3ytw
