@@ -11,9 +11,19 @@
             "id": "aab5a854027bc28b",
             "type": "leaf",
             "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md"
+              }
+            }
+          },
+          {
+            "id": "4f2c4089bcd7110c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00-todo/selwynEducationTechnologyKey2022.md",
+                "file": "r/desjardinsHandbookEducationalMeasurement2018.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 400.5
   },
   "right": {
     "id": "049ec37ba5d3ba10",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-todo/selwynEducationTechnologyKey2022.md",
+                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-todo/selwynEducationTechnologyKey2022.md",
+                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-todo/selwynEducationTechnologyKey2022.md"
+                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md"
               }
             }
           },
@@ -169,35 +179,45 @@
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "open-vscode:VSCode": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "9d00b08086a56e94",
+  "active": "aab5a854027bc28b",
   "lastOpenFiles": [
-    "00-todo/frenchReviewBenefitsDrawbacks2023.md",
     "00-todo/selwynEducationTechnologyKey2022.md",
+    "_templates/source-note.md",
+    "{{citekey}}.pdf.md",
+    "methods/finchEducationalPsychologicalMeasurement2019.md",
+    "00-todo/bearmanSupportAssessmentPractice2016.md",
+    "_templates/article.md",
+    "methods/sarstedtPLSSEMIndeedSilver2023.md",
+    "r/desjardinsHandbookEducationalMeasurement2018.md",
+    "00-todo/nicolPowerInternalFeedback2021.md",
+    "00-todo/sarstedtPLSSEMIndeedSilver2023.md",
+    "_papers/FNGUHRLK/sarstedtPLSSEMIndeedSilver2023.pdf",
+    "clarke-miduraAssessmentTechnologyChange2010.md",
+    "_papers/UU7WXGEC/lodgeAssessmentReformAge.pdf",
+    "_papers/UU7WXGEC",
+    "_papers/RSU4S6WP/moyafigueroaExaminingRecommendationsArtificial2023.pdf",
+    "_papers/RSU4S6WP",
+    "_papers/IMAWK6CF/F2022C00105.pdf",
+    "_papers/IMAWK6CF",
+    "_papers/G38Z4AIX/moyafigueroaExaminingRecommendationsArtificial2023.pdf",
+    "_papers/G38Z4AIX",
+    "_papers/4L3MN4NT/desjardinsHandbookEducationalMeasurement2018.pdf",
+    "00-todo/frenchReviewBenefitsDrawbacks2023.md",
     "🧭 Reference Map.canvas",
     "00-todo/tessaroFiveIndigenizingOnline2018.md",
     "00-todo/rawlusykAssessmentHigherEducation2018.md",
     "00-todo/chanSystematicReviewHandwritten2023.md",
     "00-todo/shepardShouldMeasurementHave2019.md",
     "01-sources/bearmanDesigningAssessmentDigital2022.md",
-    "_papers/DQCLUDQI/selwynEducationTechnologyKey2022.pdf",
-    "_papers/DQCLUDQI/selwyn.pdf",
-    "_papers/DQCLUDQI",
-    "_papers/4QQLHHCC/NeilSelwyn_2022_Chapter2MakingSenseOf_EducationAndTechnolog.pdf",
-    "_papers/4QQLHHCC",
-    "_papers/3W8B9DE5/machadoCOVID19ImpactAssessment2023.pdf",
-    "_papers/3W8B9DE5",
-    "_papers/E2YA4LL4/shepardShouldMeasurementHave2019.pdf",
-    "_papers/E2YA4LL4/Shepard - 2019 - Should “Measurement” Have a Role in Teacher Learni.pdf",
-    "_papers/tmp-gr0uTn",
     "01-sources/fischerHowDoesAssessment2023.md",
     "methods/ghasemyThisFastCar2020.md",
     "methods/hairPartialLeastSquares2021.md",
@@ -217,16 +237,7 @@
     "_papers/ZKV2Z797/menu-collapsed.png",
     "methods/coltmanFormativeReflectiveMeasurement2008.md",
     "methods/linReviewUsingPartial2020.md",
-    "00-todo/bearmanSupportAssessmentPractice2016.md",
-    "_templates/source-note.md",
     "hair.md",
-    "methods/tigelaarDevelopmentValidationFramework2004.md",
-    "01-sources/molloyDevelopingLearningcentredFramework2020.md",
-    "methods/mertlerMeasuringTeachersKnowledge2005.md",
-    "fawns23OnlyWay2023.md",
-    "methods/hairPartialLeastSquares2022.md",
-    "01-sources/sweeneyWhereTransformationUnlocking2017.md",
-    "sweeneyWhereTransformationUnlocking2017.md",
     "1️⃣ sources/technology/🧭 Reference Map.canvas"
   ]
 }

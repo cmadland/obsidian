@@ -1,18 +1,16 @@
 ---
 DOI: {{DOI}}
-Date: {{date | format ("YYYY")}}
+Date: {{date | format (YYYY)}}
 Rating: 0/5
-Title: "{{title}}"
-ShortSummary: "{{SUMMARY}}"
+Title: {{title}}
+ShortSummary: {{SUMMARY}}
 annotation-target: {{citekey}}.pdf
 tags: {{keywords}}
 ---
-{{TAGS}}
+
 
 #### [{{title}}]({{citekey}}.pdf)
-{{author}}
 
-{{abstract}}
 
 > [!tldr] Summary
 > A short summary - or an abstract in 3 sentences, relating to YOU. What did YOU find interesting about this paper. 
