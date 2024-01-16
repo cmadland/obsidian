@@ -1,5 +1,5 @@
 ---
-DOI: 
+DOI: 10.1007/978-981-15-3793-6
 Date: 2020
 Rating: 0/5
 Title: "Structural Equation Modelling: Application for Research and Practice (with AMOS and R)"

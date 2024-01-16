@@ -11,9 +11,61 @@
             "id": "aab5a854027bc28b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/thakkarStructuralEquationModelling2020.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5f7e7dad91df5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-sources/mental-health/jonesStudentWellbeingAssessment2021.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaf53f69452d82f1",
+            "type": "leaf",
+            "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md"
+                "file": "01-sources/mental-health/listerMentalHealthDistance2021.md"
+              }
+            }
+          },
+          {
+            "id": "fba3e2f85d1216e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5771adb04d2e988a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -30,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md",
+                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md",
+                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methods/sarstedtPLSSEMIndeedSilver2023.md"
+                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md"
               }
             }
           },
@@ -188,29 +241,37 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "aab5a854027bc28b",
+  "active": "5771adb04d2e988a",
   "lastOpenFiles": [
-    "00-todo/selwynEducationTechnologyKey2022.md",
+    "_papers/GWLYYKW3/gideonHandbookSurveyMethodology2012a.pdf",
+    "_papers/GWLYYKW3/Gideon - 2012 - Handbook of Survey Methodology for the Social Scie.pdf",
+    "_papers/GWLYYKW3",
+    "_papers/tmp-fsaD8a/Gideon - 2012 - Handbook of Survey Methodology for the Social Scie.pdf",
+    "_papers/tmp-fsaD8a",
+    "00-todo/bernsteinVerticalHorizontalDiscourse1999.md",
     "_templates/source-note.md",
+    "methods/surveys/kelleyGoodPracticeConduct2003.md",
+    "methods/surveys",
+    "01-sources/Untitled",
+    "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
+    "_papers/CFAEUZYT/kelleyGoodPracticeConduct2003.pdf",
+    "_papers/CFAEUZYT/Kelley - 2003 - Good practice in the conduct and reporting of surv.pdf",
+    "_papers/CFAEUZYT",
+    "_papers/tmp-qUBJIa/Kelley - 2003 - Good practice in the conduct and reporting of surv.pdf",
+    "01-sources/mental-health/listerMentalHealthDistance2021.md",
+    "01-sources/mental-health/jonesStudentWellbeingAssessment2021.md",
+    "00-todo/jonesStudentWellbeingAssessment2021.md",
+    "methods/thakkarStructuralEquationModelling2020.md",
+    "methods/sarstedtPLSSEMIndeedSilver2023.md",
+    "00-todo/selwynEducationTechnologyKey2022.md",
     "{{citekey}}.pdf.md",
     "methods/finchEducationalPsychologicalMeasurement2019.md",
     "00-todo/bearmanSupportAssessmentPractice2016.md",
     "_templates/article.md",
-    "methods/sarstedtPLSSEMIndeedSilver2023.md",
     "r/desjardinsHandbookEducationalMeasurement2018.md",
     "00-todo/nicolPowerInternalFeedback2021.md",
     "00-todo/sarstedtPLSSEMIndeedSilver2023.md",
-    "_papers/FNGUHRLK/sarstedtPLSSEMIndeedSilver2023.pdf",
     "clarke-miduraAssessmentTechnologyChange2010.md",
-    "_papers/UU7WXGEC/lodgeAssessmentReformAge.pdf",
-    "_papers/UU7WXGEC",
-    "_papers/RSU4S6WP/moyafigueroaExaminingRecommendationsArtificial2023.pdf",
-    "_papers/RSU4S6WP",
-    "_papers/IMAWK6CF/F2022C00105.pdf",
-    "_papers/IMAWK6CF",
-    "_papers/G38Z4AIX/moyafigueroaExaminingRecommendationsArtificial2023.pdf",
-    "_papers/G38Z4AIX",
-    "_papers/4L3MN4NT/desjardinsHandbookEducationalMeasurement2018.pdf",
     "00-todo/frenchReviewBenefitsDrawbacks2023.md",
     "🧭 Reference Map.canvas",
     "00-todo/tessaroFiveIndigenizingOnline2018.md",
@@ -219,25 +280,17 @@
     "00-todo/shepardShouldMeasurementHave2019.md",
     "01-sources/bearmanDesigningAssessmentDigital2022.md",
     "01-sources/fischerHowDoesAssessment2023.md",
-    "methods/ghasemyThisFastCar2020.md",
-    "methods/hairPartialLeastSquares2021.md",
-    "00-todo/chanStudentPartnershipAssessment2023.md",
-    "00-todo/buckleyAreWeAnswering2023.md",
     "assets/tiaf-q.png",
     "assets/fig11-tiaf-q-full.drawio.png",
     "assets/tiaf-q-full.drawio.png",
     "assets/tiaf-venn.drawio.png",
     "🧭 Dissertation Map.canvas",
-    "coltmanFormativeReflectiveMeasurement2008.md",
     "_papers/ZKV2Z797/ace_award_0.jpg",
     "_papers/ZKV2Z797/throbber.gif",
     "_papers/ZKV2Z797/company-logo-1.png",
     "_papers/ZKV2Z797/remove.png",
     "_papers/ZKV2Z797/company-logo-2.png",
     "_papers/ZKV2Z797/menu-collapsed.png",
-    "methods/coltmanFormativeReflectiveMeasurement2008.md",
-    "methods/linReviewUsingPartial2020.md",
-    "hair.md",
     "1️⃣ sources/technology/🧭 Reference Map.canvas"
   ]
 }
