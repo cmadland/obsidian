@@ -39,7 +39,7 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "01-sources/mental-health/listerMentalHealthDistance2021.md"
+                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md"
               }
             }
           },
@@ -70,6 +70,19 @@
             }
           },
           {
+            "id": "2547c41d3f8397bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4f2c4089bcd7110c",
             "type": "leaf",
             "state": {
@@ -83,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md",
+                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md",
+                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md"
+                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md"
               }
             }
           },
@@ -241,8 +254,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "5771adb04d2e988a",
+  "active": "2547c41d3f8397bf",
   "lastOpenFiles": [
+    "_papers/JNEBRV44/gideonHandbookSurveyMethodology2012.pdf",
+    "methods/surveys/gideonHandbookSurveyMethodology2012.md",
+    "methods/surveys/kelleyGoodPracticeConduct2003.md",
     "_papers/GWLYYKW3/gideonHandbookSurveyMethodology2012a.pdf",
     "_papers/GWLYYKW3/Gideon - 2012 - Handbook of Survey Methodology for the Social Scie.pdf",
     "_papers/GWLYYKW3",
@@ -250,14 +266,11 @@
     "_papers/tmp-fsaD8a",
     "00-todo/bernsteinVerticalHorizontalDiscourse1999.md",
     "_templates/source-note.md",
-    "methods/surveys/kelleyGoodPracticeConduct2003.md",
     "methods/surveys",
     "01-sources/Untitled",
     "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
     "_papers/CFAEUZYT/kelleyGoodPracticeConduct2003.pdf",
     "_papers/CFAEUZYT/Kelley - 2003 - Good practice in the conduct and reporting of surv.pdf",
-    "_papers/CFAEUZYT",
-    "_papers/tmp-qUBJIa/Kelley - 2003 - Good practice in the conduct and reporting of surv.pdf",
     "01-sources/mental-health/listerMentalHealthDistance2021.md",
     "01-sources/mental-health/jonesStudentWellbeingAssessment2021.md",
     "00-todo/jonesStudentWellbeingAssessment2021.md",
@@ -279,7 +292,6 @@
     "00-todo/chanSystematicReviewHandwritten2023.md",
     "00-todo/shepardShouldMeasurementHave2019.md",
     "01-sources/bearmanDesigningAssessmentDigital2022.md",
-    "01-sources/fischerHowDoesAssessment2023.md",
     "assets/tiaf-q.png",
     "assets/fig11-tiaf-q-full.drawio.png",
     "assets/tiaf-q-full.drawio.png",

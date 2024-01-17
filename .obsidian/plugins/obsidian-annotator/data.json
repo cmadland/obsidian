@@ -13,8 +13,8 @@
   },
   "annotationMarkdownSettings": {
     "annotationModeByDefault": false,
-    "includePrefix": true,
+    "includePrefix": false,
     "highlightHighlightedText": false,
-    "includePostfix": true
+    "includePostfix": false
   }
 }
