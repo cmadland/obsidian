@@ -6,6 +6,7 @@
       {
         "id": "77563a7fead1617c",
         "type": "tabs",
+        "dimension": 36.17886178861789,
         "children": [
           {
             "id": "aab5a854027bc28b",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methods/thakkarStructuralEquationModelling2020.md",
+                "file": "methods/sem/thakkarStructuralEquationModelling2020.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,10 +74,46 @@
             "id": "2547c41d3f8397bf",
             "type": "leaf",
             "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "01-sources/boudAssessmentaslearningDevelopmentStudents2021.md"
+              }
+            }
+          },
+          {
+            "id": "0a0f3734d9065814",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md",
-                "mode": "preview",
+                "file": "00-todo/willsLearningFrameworkAssessment2009.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a0033aab135ad67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/sem/hairWhenUseHow2019.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f40d3b73524b8dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/delucaApproachesClassroomAssessment2016.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,9 +131,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c939550bca967d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-todo/bearmanSupportAssessmentPractice2016.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
+      },
+      {
+        "id": "618220a03abfbd52",
+        "type": "tabs",
+        "dimension": 63.82113821138211,
+        "children": [
+          {
+            "id": "c1ea502937346998",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assessment-reform",
+                "query": "tag:coefficient-alpha",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -150,7 +217,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md",
+                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md",
+                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md"
+                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf"
               }
             }
           },
@@ -254,44 +322,44 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "2547c41d3f8397bf",
+  "active": "c1ea502937346998",
   "lastOpenFiles": [
-    "_papers/JNEBRV44/gideonHandbookSurveyMethodology2012.pdf",
+    "methods/delucaApproachesClassroomAssessment2016.md",
+    "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf",
+    "methods/delucaTeachersApproachesClassroom2016.md",
+    "_papers/YGNVBZDI/delucaTeachersApproachesClassroom2016.pdf",
+    "methods/sem/thakkarIntroductionStructuralEquation2020.md",
+    "methods/sem/linReviewUsingPartial2020.md",
+    "methods/sem/ghasemyThisFastCar2020.md",
+    "methods/sem",
+    "methods/sem/hairWhenUseHow2019.md",
+    "00-todo/buckleyAreWeAnswering2023.md",
+    "_templates/source-note.md",
+    "_papers/PLNADWVK/navarroLearningStatisticsTutorial.pdf",
+    "_papers/PLNADWVK/lsr-0.6.pdf",
+    "_papers/PLNADWVK",
+    "_papers/ZI5WHZRK/buckleyAreWeAnswering2023.pdf",
+    "00-todo/bearmanSupportAssessmentPractice2016.md",
+    "00-todo/bearmanHowUniversityTeachers2017.md",
+    "r/desjardinsHandbookEducationalMeasurement2018.md",
+    "methods/sem/thakkarStructuralEquationModelling2020.md",
+    "00-todo/fullerTechnologyEnhancedAssessment2022.md",
+    "01-sources/boudChallengesReformingHigher2020.md",
+    "00-todo/nieminenAssessmentMatterBeing2023.md",
+    "00-todo/feltenReassessingAssessment2024.md",
+    "00-todo/willsLearningFrameworkAssessment2009.md",
+    "_papers/ZTC4U5L5/feltenReassessingAssessmentGrading2024.pdf",
+    "_papers/ZTC4U5L5/Reassessing Assessment.pdf",
+    "_papers/ZTC4U5L5",
+    "01-sources/boudAssessmentaslearningDevelopmentStudents2021.md",
     "methods/surveys/gideonHandbookSurveyMethodology2012.md",
     "methods/surveys/kelleyGoodPracticeConduct2003.md",
-    "_papers/GWLYYKW3/gideonHandbookSurveyMethodology2012a.pdf",
-    "_papers/GWLYYKW3/Gideon - 2012 - Handbook of Survey Methodology for the Social Scie.pdf",
-    "_papers/GWLYYKW3",
-    "_papers/tmp-fsaD8a/Gideon - 2012 - Handbook of Survey Methodology for the Social Scie.pdf",
-    "_papers/tmp-fsaD8a",
     "00-todo/bernsteinVerticalHorizontalDiscourse1999.md",
-    "_templates/source-note.md",
-    "methods/surveys",
-    "01-sources/Untitled",
     "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
-    "_papers/CFAEUZYT/kelleyGoodPracticeConduct2003.pdf",
-    "_papers/CFAEUZYT/Kelley - 2003 - Good practice in the conduct and reporting of surv.pdf",
     "01-sources/mental-health/listerMentalHealthDistance2021.md",
     "01-sources/mental-health/jonesStudentWellbeingAssessment2021.md",
     "00-todo/jonesStudentWellbeingAssessment2021.md",
-    "methods/thakkarStructuralEquationModelling2020.md",
-    "methods/sarstedtPLSSEMIndeedSilver2023.md",
-    "00-todo/selwynEducationTechnologyKey2022.md",
-    "{{citekey}}.pdf.md",
-    "methods/finchEducationalPsychologicalMeasurement2019.md",
-    "00-todo/bearmanSupportAssessmentPractice2016.md",
-    "_templates/article.md",
-    "r/desjardinsHandbookEducationalMeasurement2018.md",
-    "00-todo/nicolPowerInternalFeedback2021.md",
-    "00-todo/sarstedtPLSSEMIndeedSilver2023.md",
-    "clarke-miduraAssessmentTechnologyChange2010.md",
-    "00-todo/frenchReviewBenefitsDrawbacks2023.md",
     "🧭 Reference Map.canvas",
-    "00-todo/tessaroFiveIndigenizingOnline2018.md",
-    "00-todo/rawlusykAssessmentHigherEducation2018.md",
-    "00-todo/chanSystematicReviewHandwritten2023.md",
-    "00-todo/shepardShouldMeasurementHave2019.md",
-    "01-sources/bearmanDesigningAssessmentDigital2022.md",
     "assets/tiaf-q.png",
     "assets/fig11-tiaf-q-full.drawio.png",
     "assets/tiaf-q-full.drawio.png",
