@@ -4,17 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "77563a7fead1617c",
+        "id": "d770ed235a27042b",
         "type": "tabs",
-        "dimension": 36.17886178861789,
         "children": [
           {
-            "id": "aab5a854027bc28b",
+            "id": "0ad0f2625d70ab0d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": -3627.700000000001,
+                  "y": 673.3599999999979,
+                  "zoom": -1
+                }
+              }
+            }
+          },
+          {
+            "id": "325b83685de99988",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🧭 Reference Map.canvas",
+                "viewState": {
+                  "x": -1583.8194099336888,
+                  "y": 742.0526330519199,
+                  "zoom": -1
+                }
+              }
+            }
+          },
+          {
+            "id": "7e78506820ab75b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methods/sem/thakkarStructuralEquationModelling2020.md",
+                "file": "00-todo/buckleyAreWeAnswering2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -22,12 +51,12 @@
             }
           },
           {
-            "id": "b5f7e7dad91df5ca",
+            "id": "bf922fd665f652c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-sources/mental-health/jonesStudentWellbeingAssessment2021.md",
+                "file": "00-todo/tessaroFiveIndigenizingOnline2018.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,22 +64,12 @@
             }
           },
           {
-            "id": "eaf53f69452d82f1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "methods/surveys/gideonHandbookSurveyMethodology2012.md"
-              }
-            }
-          },
-          {
-            "id": "fba3e2f85d1216e0",
+            "id": "fe27a6503210426a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
+                "file": "00-todo/frenchReviewBenefitsDrawbacks2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,87 +77,12 @@
             }
           },
           {
-            "id": "5771adb04d2e988a",
+            "id": "83ae37e46e1df7c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methods/surveys/kelleyGoodPracticeConduct2003.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2547c41d3f8397bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "01-sources/boudAssessmentaslearningDevelopmentStudents2021.md"
-              }
-            }
-          },
-          {
-            "id": "0a0f3734d9065814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-todo/willsLearningFrameworkAssessment2009.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a0033aab135ad67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "methods/sem/hairWhenUseHow2019.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f40d3b73524b8dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "methods/delucaApproachesClassroomAssessment2016.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f2c4089bcd7110c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "r/desjardinsHandbookEducationalMeasurement2018.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c939550bca967d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-todo/bearmanSupportAssessmentPractice2016.md",
+                "file": "00-todo/chanSystematicReviewHandwritten2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,24 +90,7 @@
             }
           }
         ],
-        "currentTab": 8
-      },
-      {
-        "id": "618220a03abfbd52",
-        "type": "tabs",
-        "dimension": 63.82113821138211,
-        "children": [
-          {
-            "id": "c1ea502937346998",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:coefficient-alpha",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -217,12 +144,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 305.5
   },
   "right": {
     "id": "049ec37ba5d3ba10",
@@ -238,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf",
+                "file": "00-todo/buckleyAreWeAnswering2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf",
+                "file": "00-todo/buckleyAreWeAnswering2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf"
+                "file": "00-todo/buckleyAreWeAnswering2023.md"
               }
             }
           },
@@ -313,52 +239,47 @@
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
+      "open-vscode:VSCode": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "open-vscode:VSCode": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c1ea502937346998",
+  "active": "7e78506820ab75b3",
   "lastOpenFiles": [
-    "methods/delucaApproachesClassroomAssessment2016.md",
-    "_papers/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf",
-    "methods/delucaTeachersApproachesClassroom2016.md",
-    "_papers/YGNVBZDI/delucaTeachersApproachesClassroom2016.pdf",
+    "r/desjardinsHandbookEducationalMeasurement2018.md",
+    "r",
+    "methods/surveys/kelleyGoodPracticeConduct2003.md",
+    "methods/surveys/gideonHandbookSurveyMethodology2012.md",
+    "methods/surveys",
+    "methods/sem/thakkarStructuralEquationModelling2020.md",
     "methods/sem/thakkarIntroductionStructuralEquation2020.md",
+    "methods/sem/sarstedtPLSSEMIndeedSilver2023.md",
     "methods/sem/linReviewUsingPartial2020.md",
+    "methods/sem/hairWhenUseHow2019.md",
+    "methods/sem/hairPartialLeastSquares2022.md",
+    "methods/sem/hairPartialLeastSquares2021.md",
+    "methods/sem/hairPLSSEMIndeedSilver2011.md",
     "methods/sem/ghasemyThisFastCar2020.md",
     "methods/sem",
-    "methods/sem/hairWhenUseHow2019.md",
-    "00-todo/buckleyAreWeAnswering2023.md",
-    "_templates/source-note.md",
-    "_papers/PLNADWVK/navarroLearningStatisticsTutorial.pdf",
-    "_papers/PLNADWVK/lsr-0.6.pdf",
-    "_papers/PLNADWVK",
-    "_papers/ZI5WHZRK/buckleyAreWeAnswering2023.pdf",
-    "00-todo/bearmanSupportAssessmentPractice2016.md",
-    "00-todo/bearmanHowUniversityTeachers2017.md",
-    "r/desjardinsHandbookEducationalMeasurement2018.md",
-    "methods/sem/thakkarStructuralEquationModelling2020.md",
-    "00-todo/fullerTechnologyEnhancedAssessment2022.md",
-    "01-sources/boudChallengesReformingHigher2020.md",
-    "00-todo/nieminenAssessmentMatterBeing2023.md",
-    "00-todo/feltenReassessingAssessment2024.md",
-    "00-todo/willsLearningFrameworkAssessment2009.md",
-    "_papers/ZTC4U5L5/feltenReassessingAssessmentGrading2024.pdf",
-    "_papers/ZTC4U5L5/Reassessing Assessment.pdf",
-    "_papers/ZTC4U5L5",
-    "01-sources/boudAssessmentaslearningDevelopmentStudents2021.md",
-    "methods/surveys/gideonHandbookSurveyMethodology2012.md",
-    "methods/surveys/kelleyGoodPracticeConduct2003.md",
-    "00-todo/bernsteinVerticalHorizontalDiscourse1999.md",
-    "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
+    "methods/finchEducationalPsychologicalMeasurement2019.md",
+    "methods/delucaTeachersApproachesClassroom2016.md",
+    "methods/delucaApproachesClassroomAssessment2016.md",
     "01-sources/mental-health/listerMentalHealthDistance2021.md",
+    "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
     "01-sources/mental-health/jonesStudentWellbeingAssessment2021.md",
+    "01-sources/mental-health",
+    "00-todo/willsLearningFrameworkAssessment2009.md",
+    "00-todo/shepardShouldMeasurementHave2019.md",
+    "00-todo/selwynEducationTechnologyKey2022.md",
+    "00-todo/rawlusykAssessmentHigherEducation2018.md",
+    "00-todo/nieminenAssessmentMatterBeing2023.md",
     "00-todo/jonesStudentWellbeingAssessment2021.md",
+    "00-todo/feltenReassessingAssessment2024.md",
+    "00-todo/bearmanHowUniversityTeachers2017.md",
     "🧭 Reference Map.canvas",
     "assets/tiaf-q.png",
     "assets/fig11-tiaf-q-full.drawio.png",
@@ -371,6 +292,12 @@
     "_papers/ZKV2Z797/remove.png",
     "_papers/ZKV2Z797/company-logo-2.png",
     "_papers/ZKV2Z797/menu-collapsed.png",
+    "_papers/ZKV2Z797/noozoodesign_favicon.ico",
+    "_papers/ZKV2Z797/omega.js",
+    "_papers/ZKV2Z797/googleanalytics.js",
+    "_papers/ZKV2Z797/ga.js",
+    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.html",
+    "_papers/ZKV2Z797/fivestar.js",
     "1️⃣ sources/technology/🧭 Reference Map.canvas"
   ]
 }
