@@ -2,11 +2,11 @@
   "deafultDarkMode": false,
   "darkReaderSettings": {
     "brightness": 150,
-    "contrast": 85,
+    "contrast": 131,
     "sepia": 0
   },
-  "debugLogging": true,
-  "customDefaultPath": "",
+  "debugLogging": false,
+  "customDefaultPath": "/storage",
   "epubSettings": {
     "readingMode": "pagination",
     "fontSize": 100

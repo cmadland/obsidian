@@ -44,3 +44,17 @@ We should note though that while assessment design is of great importance, the s
 
 
 %% Import Date: 2023-04-05T06:44:18.460-07:00 %%
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-30T00:26:42.098Z","updated":"2024-03-30T00:26:42.098Z","document":{"title":"Sustainable assessment revisited","link":[{"href":"urn:x-pdf:f228965856198738ff578579e4d7354c"},{"href":"vault:/storage/AU3WZ79H/boudSustainableAssessmentRevisited2016.pdf"}],"documentFingerprint":"f228965856198738ff578579e4d7354c"},"uri":"vault:/storage/AU3WZ79H/boudSustainableAssessmentRevisited2016.pdf","target":[{"source":"vault:/storage/AU3WZ79H/boudSustainableAssessmentRevisited2016.pdf","selector":[{"type":"TextPositionSelector","start":10140,"end":10472},{"type":"TextQuoteSelector","exact":"The key elements of developing informed judgement from the perspective ofthe students were proposed as:(1) identifying oneself as an active learner;(2) identifying one’s own level of knowledge and the gaps in this;(3) practising testing and judging;(4) developing these skills over time; and(5) embodying reflexivity and commitment.","prefix":"at the discretion of teach-ers. ","suffix":"They described how these element"}]}]}
+>```
+>%%
+>*%%HIGHLIGHT%%The key elements of developing informed judgement from the perspective ofthe students were proposed as:(1) identifying oneself as an active learner;(2) identifying one’s own level of knowledge and the gaps in this;(3) practising testing and judging;(4) developing these skills over time; and(5) embodying reflexivity and commitment.*
+>%%LINK%%[[#^w6zktekpb3|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^w6zktekpb3

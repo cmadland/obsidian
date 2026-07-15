@@ -4,46 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d770ed235a27042b",
+        "id": "2c029fe09cd108a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0ad0f2625d70ab0d",
+            "id": "51ef8e279ad0ab9c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf-annotator",
               "state": {
-                "file": "🧭 Reference Map.canvas",
-                "viewState": {
-                  "x": -3627.700000000001,
-                  "y": 673.3599999999979,
-                  "zoom": -1
-                }
+                "file": "01-sources/earlAssessmentLearningUsing2013.md"
               }
             }
           },
           {
-            "id": "325b83685de99988",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "🧭 Reference Map.canvas",
-                "viewState": {
-                  "x": -1583.8194099336888,
-                  "y": 742.0526330519199,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "7e78506820ab75b3",
+            "id": "abf4e8c60e147836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-todo/buckleyAreWeAnswering2023.md",
+                "file": "methods/EFA/samples/ramrakhianiExploratoryFactorAnalysis2017.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,12 +31,12 @@
             }
           },
           {
-            "id": "bf922fd665f652c9",
+            "id": "7bc5d4f0642ac6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-todo/tessaroFiveIndigenizingOnline2018.md",
+                "file": "methods/EFA/watkinsStepbyStepGuideExploratory2020.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,12 +44,12 @@
             }
           },
           {
-            "id": "fe27a6503210426a",
+            "id": "3229a7f6a865b7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-todo/frenchReviewBenefitsDrawbacks2023.md",
+                "file": "methods/EFA/samples/kimValidationFitnessSwitching2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,20 +57,16 @@
             }
           },
           {
-            "id": "83ae37e46e1df7c0",
+            "id": "313914ae77ec180c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00-todo/chanSystematicReviewHandwritten2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "storage/C73529CK/delucaACAIInstrumentSpecificationsND.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-todo/buckleyAreWeAnswering2023.md",
+                "file": "01-sources/earlAssessmentLearningUsing2013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-todo/buckleyAreWeAnswering2023.md",
+                "file": "01-sources/earlAssessmentLearningUsing2013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-todo/buckleyAreWeAnswering2023.md"
+                "file": "01-sources/earlAssessmentLearningUsing2013.md"
               }
             }
           },
@@ -248,13 +224,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e78506820ab75b3",
+  "active": "51ef8e279ad0ab9c",
   "lastOpenFiles": [
+    "storage/3Q99VPSA/boudSustainableAssessmentRevisited2016.pdf",
+    "storage/3Q99VPSA",
+    "01-sources/boudSustainableAssessmentRevisited2016.md",
+    "storage/AU3WZ79H/boudSustainableAssessmentRevisited2016.pdf",
+    "storage/MUBNUSWU/delucaApproachesClassroomAssessment2016.pdf",
+    "storage/AU3WZ79H/Sustainable assessment revisited.pdf",
+    "storage/AU3WZ79H",
+    "storage/DWR5P44L/earlAssessmentLearningUsing2013.pdf",
+    "storage/DWR5P44L/Assessment.pdf",
+    "storage/DWR5P44L",
+    "01-sources/boudSustainableAssessmentRethinking2000.md",
+    "01-sources/bearmanDesigningAssessmentDigital2022.md",
+    "storage/TMEBCA7G/learningtolearnonlinereview.html",
+    "storage/TMEBCA7G",
+    "methods/delucaApproachesClassroomAssessment2016.md",
+    "methods/delucaTeachersApproachesClassroom2016.md",
+    "methods/EFA/watkinsExploratoryFactorAnalysis2018.md",
+    "methods/EFA/samples/kimValidationFitnessSwitching2023.md",
+    "methods/EFA/watkinsStepbyStepGuideExploratory2020.md",
+    "methods/EFA/samples/ramrakhianiExploratoryFactorAnalysis2017.md",
+    "methods/bulutLectureSurveyPiloting2021.md",
+    "watkinsExploratoryFactorAnalysis2018.pdf.md",
+    "methods/delucaACAIInstrumentSpecificationsND.md",
+    "00-todo/buckleyAreWeAnswering2023.md",
+    "storage/ZZLTW6FX/nyu-short.svg",
+    "storage/ZZLTW6FX/nyu-long.svg",
+    "storage/ZZLTW6FX/by-nd.svg",
+    "storage/ZZLTW6FX/ainow-logo-outlines.svg",
+    "storage/ZZLTW6FX/ainow-logo-knockout.svg",
+    "storage/ZT7QPE8Y/suppFiles.png",
+    "storage/ZT7QPE8Y/printArticle.png",
+    "storage/ZT7QPE8Y/index2.png",
+    "storage/ZT7QPE8Y/metadata.png",
+    "storage/ZT7QPE8Y/logokc.jpg",
+    "buckleyAreWeAnswering2023.pdf.md",
+    "🧭 Reference Map.canvas",
     "r/desjardinsHandbookEducationalMeasurement2018.md",
-    "r",
     "methods/surveys/kelleyGoodPracticeConduct2003.md",
     "methods/surveys/gideonHandbookSurveyMethodology2012.md",
-    "methods/surveys",
     "methods/sem/thakkarStructuralEquationModelling2020.md",
     "methods/sem/thakkarIntroductionStructuralEquation2020.md",
     "methods/sem/sarstedtPLSSEMIndeedSilver2023.md",
@@ -263,41 +273,7 @@
     "methods/sem/hairPartialLeastSquares2022.md",
     "methods/sem/hairPartialLeastSquares2021.md",
     "methods/sem/hairPLSSEMIndeedSilver2011.md",
-    "methods/sem/ghasemyThisFastCar2020.md",
-    "methods/sem",
-    "methods/finchEducationalPsychologicalMeasurement2019.md",
-    "methods/delucaTeachersApproachesClassroom2016.md",
-    "methods/delucaApproachesClassroomAssessment2016.md",
-    "01-sources/mental-health/listerMentalHealthDistance2021.md",
-    "01-sources/mental-health/listerAssessmentLifeCircumstances2023.md",
-    "01-sources/mental-health/jonesStudentWellbeingAssessment2021.md",
-    "01-sources/mental-health",
-    "00-todo/willsLearningFrameworkAssessment2009.md",
-    "00-todo/shepardShouldMeasurementHave2019.md",
-    "00-todo/selwynEducationTechnologyKey2022.md",
-    "00-todo/rawlusykAssessmentHigherEducation2018.md",
-    "00-todo/nieminenAssessmentMatterBeing2023.md",
-    "00-todo/jonesStudentWellbeingAssessment2021.md",
-    "00-todo/feltenReassessingAssessment2024.md",
-    "00-todo/bearmanHowUniversityTeachers2017.md",
-    "🧭 Reference Map.canvas",
-    "assets/tiaf-q.png",
-    "assets/fig11-tiaf-q-full.drawio.png",
-    "assets/tiaf-q-full.drawio.png",
-    "assets/tiaf-venn.drawio.png",
     "🧭 Dissertation Map.canvas",
-    "_papers/ZKV2Z797/ace_award_0.jpg",
-    "_papers/ZKV2Z797/throbber.gif",
-    "_papers/ZKV2Z797/company-logo-1.png",
-    "_papers/ZKV2Z797/remove.png",
-    "_papers/ZKV2Z797/company-logo-2.png",
-    "_papers/ZKV2Z797/menu-collapsed.png",
-    "_papers/ZKV2Z797/noozoodesign_favicon.ico",
-    "_papers/ZKV2Z797/omega.js",
-    "_papers/ZKV2Z797/googleanalytics.js",
-    "_papers/ZKV2Z797/ga.js",
-    "_papers/ZKV2Z797/open-educational-resources-â-historical-perspective.html",
-    "_papers/ZKV2Z797/fivestar.js",
     "1️⃣ sources/technology/🧭 Reference Map.canvas"
   ]
 }
